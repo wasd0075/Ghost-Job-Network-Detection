@@ -1,0 +1,999 @@
+﻿Job Title,Job_URL,EX_level_demand,Time_Limitation,Search_Keyword,Posted_from,Description,Category1_URL_search,Category_1,highlight,Category2_URL_search,Category_2,Category3_URL_search,Category_3,Category4_URL_search,Category_4,Category5_URL_search,Category_5,Category6_URL_search,Category_6,Category7_URL_search,Category_7,Category8_URL_search,Category_8,Category9_URL_search,Category_9,Applicants_Num,Payment_Situation,Enterprise_Client,Freelancers_Num,Spent($),Client_Country,Connects_Num,New_Connects_Num,Rating,Feedback_Num,Payment_type,Job_Cost,Hourly_Rate,Start_rate,End_rate
+Power bi specialist freelance,https://www.upwork.com/jobs/Power-specialist-freelance_~011e995e98fafa73e6/,Expert,,Data_science,5 minutes ago,Already data pooled and designed. Need to refine add or separate tab,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1052162208890146823,Data Visualization,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626759018627072,Microsoft Power BI,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626782364123136,SQL,,,,,,,,,,,Less than 5,Payment unverified,,1,0,United States,6,12,,0,Fixed-price,"$2,500 ",,0,
+Case Study (on-demand delivery startup),https://www.upwork.com/jobs/Case-Study-demand-delivery-startup_~01a68fe11935206388/,Intermediate,,Data_science,5 minutes ago,"Hi,
+
+Would you be able to help me do a case-study this Saturday around 2PM EST? It will take up to 3 hours.
+
+It will require Excel or Sheets, and maybe a little bit of SQL/Python, but I think Excel/Sheets will suffice.
+
+The Case Study will be on a business problem for a tech on-demand delivery startup, and the objective of the Case Study is to to break down a complex problem and present the information in a clear, concise and structured manner. 
+
+How we will do it: We can get on a Google Meet call, and I will share my screen with you. You will guide me live on how to complete it. 
+
+Please let me know if you can do it, and we can talk further.
+
+Bonus if you have previously worked at Uber/DoorDash/Instacart etc. in an Operations Manager role, but it's not necessary.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626742065250304,Google Data Studio,Google Data Studio,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626782364123136,SQL,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626784704544768,Tableau,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626758615973888,Microsoft Excel,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626759027015680,Microsoft PowerPoint,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626712596070400,Analytics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626793785212928,Visualization,,,Less than 5,Payment verified,,1,100,Canada,4,8,5,1,Fixed-price,$200 ,,0,
+"File Maker Pro Reports, Charts, Query and Ongoing Support",https://www.upwork.com/jobs/File-Maker-Pro-Reports-Charts-Query-and-Ongoing-Support_~017a92b014e761d061/,Intermediate,"3 to 6 months, Less than 30 hrs/week",Data_science,9 minutes ago,"NITIAL PROJECT
+
+Set up Monthly Report mimicking “Monthly Report Summary Table” in xlsx file
+Set up Charts mimicking “Charts” in xlsx file
+Set up a Search layout to query by date range database
+
+ONGOING PROJECT
+Ongoing support to enhance, manage and refine database
+
+SOURCE DOCUMENTS
+
+Google Folder https://drive.google.com/drive/folders/1CJmEsECf86q1nuquP8uu_EBw_MbpTn6m?usp=share_link
+
+2 Files  ABOR Sold db.fmp12
+Charts and Tables…xlsx",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626774558523392,Report Writing,,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1504885059464724480,Custom Graphics,,,,,,,,,,,,,,,Less than 5,Payment verified,,1,200,United States,6,12,5,1,Hourly,,$40.00 ,40,
+Implementation of EleutherAI/gpt-neox-20b,https://www.upwork.com/jobs/Implementation-EleutherAI-gpt-neox-20b_~0172deced648cb3b43/,Expert,"3 to 6 months, Less than 30 hrs/week",Data_science,12 minutes ago,"As a first step, you will implement the installation,configuration and deployment of EleutherAI/gpt-neox-20b using Langchain for various NLP tasks. Your first task will be to build a Docker container with all of the required assets to get Langchain and NEOX20B working on one A100 80GB. You do not need to worry about configuring the system the container will be running on. To evaluate your capabilities we want to see if you can get Langchain working successfully with the model to do very basic things. If this is a success then we will move on to many other tasks. This is not for running in the cloud but on prem. Once your docker container is built, everything should run out of the box on the A100.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342885165281280,Machine Learning Model,,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626755474440192,Machine Learning,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,,,,,,,,,,,,,Less than 5,Payment verified,,1,200000,Canada,6,12,4.935535593,26,Hourly,,$35.00-$100.00,$35.00 ,$100.00 
+BI and Data Engineer for Upwork Finance Systems Team,https://www.upwork.com/jobs/and-span-Data-span-Engineer-for-Upwork-Finance-Systems-Team_~01d22995c92fa65c64/,Expert,"More than 6 months, 30+ hrs/week",Data_science,14 minutes ago,"The Upwork Finance Systems team is looking for a BI and Data Engineer.  This job requires implementing Financial Reports off the Data from a Marketplace & ERP in a Snowflake DW + Looker setup. Includes LookML development, implementing compelling Dashboards that can drill down and track KPIs.  
+
+Must Haves (Required Skills): 
+
+Proficient in any SQL preferably in an MPP environment
+Proven ability in Looker development
+Who can overlap with the first 4 hours of Pacific timings in the mornings
+
+Nice to have:
+
+Working knowledge of Python
+Experience in FiveTran, DBT
+Experienced in Data Warehousing as in creation of Data Marts and Access Control Mechanisms
+Experience in dealing with the data of a large Marketplace or a FinTech setting
+Familiarity with financial or accounting data",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626755084369920,Looker,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626782364123136,SQL,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1192876992131252224,Snowflake,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1484275238033870848,Accounting,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,,,,,,,Less than 5,Payment verified,Enterprise,1,,United States,6,12,4.942242216,12512,Hourly,,,0,
+Computer vision / machine learning: synthetic video to real video,https://www.upwork.com/jobs/Computer-vision-machine-learning-synthetic-video-real-video_~017611ed5df0e70951/,Expert,"1 to 3 months, Less than 30 hrs/week",Data_science,15 minutes ago,"Our company is working on a government proposal involving synthetic video data, which will be used to train object detection and tracking networks. The synthetic data will be high-fidelity video using ray tracing, but there is an opportunity to make it more realistic using Domain Adaptation (DA). 
+
+Even more importantly, we want to use DA to translate the video into thermal infrared (TIR), since there are few options for physics-based renderers with TIR.
+
+The synthetic data will be in video form, so it's important to use video-to-video translation approaches that provide temporal consistency. 
+
+There are two components of this effort:
+
+1. Come up with a compelling approach and write it up in a proposal.
+2. Be included as a performer on the proposal, as a subject matter expert (SME).
+
+The ideal candidate would perform both components. We want to strengthen our proposal by including an SME, so this person would likely need to have publications in this area. Our team has significant expertise in computer vision and machine learning in general, but limited experience in video-to-video translation.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1623716863930667008,Generative Adversarial Network,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626755474440192,Machine Learning,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626726596657152,Computer Vision,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580640142053376,Neural Network,,,,,,,,,,,Less than 5,Payment verified,,1,100000,United States,6,12,5,11,Hourly,,$75.00-$175.00,$75.00 ,$175.00 
+Expert in Data Analytics,https://www.upwork.com/jobs/Expert-span-Data-span-Analytics_~01211000d198ed7ea1/,Expert,"More than 6 months, Hours to be determined",Data_science,18 minutes ago,"Mission : Ensure smooth transition of Analytics from existing team to future one. You will have to work with analytics stakeholders to understand scope/tasks/process/infrastructure/landscape, then you have to perform activities if needed (ensuring continuity) to finally transfer your knowledge to the new team (setting new way of working, working procedure…). You will be helped in this task by existing analytics team, process experts + future analytics team that will be hired and trained.
+
+Skills :
+ * Basics - Advanced Excel
+ * Process data - VBA / macros, Alteryx, Access, SQL, Python
+ * Connect data – FTP, API, Infopath, PowerApps
+ * Display – Tableau, Power BI, Azure
+ * Technology - Mobile technology
+
+Soft skills
+ * Fast learner
+ * Ability to run a project/transition and see the big picture
+ * Able to establish yourself as a key subject matter expert
+ * Training and knowledge sharing
+ * Good communicant, able to be straight to the point",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1052162208890146823,Data Visualization,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626759018627072,Microsoft Power BI,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626758615973888,Microsoft Excel,,,,,,,,,,,Less than 5,Payment verified,Enterprise,1,70000000,United States,6,12,4.96596947,10906,Hourly,,,0,
+Data Analytics Expert for Educational Exercise,https://www.upwork.com/jobs/span-Data-span-Analytics-Expert-for-Educational-Exercise_~01445192809ca4fa4b/,Intermediate,,Data_science,21 minutes ago,"Looking for someone to help me solve some problems. 
+
+I am studying different equations and need someone to help with some. 
+
+I will give you instructions so knowledge with Business Analytics is a must.
+
+You'll be given a lot of Hypothesis Testing, Linear Regression and act. 
+
+Should know how to use Excel and manual computation including histograms.
+
+Turnaround time is crucial to me too. 
+
+Someone will a lot of knowledge in this area will be best suited.
+
+Thanks!",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1504884905990946816,Data Analytics,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626719432785920,Big Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1052162208890146823,Data Visualization,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1225465936942960640,Dashboard,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626721978728448,Business Intelligence,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342880555741184,Hypothesis Testing,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626758615973888,Microsoft Excel,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626712596070400,Analytics,Less than 5,Payment verified,,1,600,Australia,2,4,4.9346781,6,Fixed-price,$10 ,,0,
+Azure Data Factory specialist,https://www.upwork.com/jobs/Azure-span-Data-span-Factory-specialist_~011ee0b8b484916c1a/,Intermediate,"More than 6 months, 30+ hrs/week",Data_science,22 minutes ago,"1. Good work experience in Azure Data Factory is needed, resource is responsible to build new pipelines and datasets as per the requirements
+2. Optimize extraction queries for existing ADF copy pipelines.
+3. Redesign existing ETLs on ADF pipelines
+4. If the resource have Azure DevOps it will be helpful in the project implementation (not mandatory)SQL
+1. Analyse, Recommend and implement performance improvement options on Azure DB (regular Deadlocks, Long running quires etc.,)
+2. Creating new DB objects(Tables, Views and stored Procedures) to support ADF pipelines as per requirements
+3. Experience in building DB backups will be add onCompetence summary
+• Mandatory Competencies: Work Experience Azure Data Factory, SQL (PL-SQL Developer)
+• Good to Have: Visual Studio, Azure DevOps, Power BI.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626782364123136,SQL,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626795962056704,Microsoft Azure,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626736444882944,ETL,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1204836445183918080,Azure DevOps,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626759559692288,Microsoft Visual Studio,,,,,,,,,Less than 5,Payment verified,,1,0,Poland,6,12,,0,Hourly,,$25.00-$35.00,$25.00 ,$35.00 
+Implementation of algorithm for multilingual data,https://www.upwork.com/jobs/Implementation-algorithm-for-multilingual-span-data-span_~01977b96b6099c0b6f/,Expert,"Less than 1 month, Less than 30 hrs/week",Data_science,24 minutes ago,"Looking for freelancer to implement following link https://towardsdatascience.com/enhancing-keybert-keyword-extraction-results-with-keyphrasevectorizers-3796fa93f4db for non-english language , based on structure of languages  few things will change , reuslts / discussion along with merhdology need to be mentioned",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730384113664,Data Science,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626711534911488,Algorithm Development,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626755474440192,Machine Learning,,,,,,,,,,,Less than 5,Payment verified,,1,20000,Pakistan,2,4,4.688142686,68,Hourly,,,0,
+Descarga e Interrelación entre Bases de Datos,https://www.upwork.com/jobs/Descarga-Interrelaci-entre-Bases-Datos_~01b51284f33dcd0660/,Intermediate,"Less than 1 month, Less than 30 hrs/week",Data_science,33 minutes ago,"Se desea desarrollar un entorno de interconexiones entre Bases de Datos de distintas fuentes y formatos. Esto para tener registro local histórico de todos los datos y encontrar coincidencias para almacenarlas en una sola Base de Dato.
+
+Lo que se debe realizar es (Ver Gráfico):
+Analytics Pagina Web: Se debe configurar en nuestra cuenta el dominio principal y los subdominios en Google Analytics 4 (GA4) de manera que luego se vaya crear un método automático de migración de Datos de GA4 a una Base de Datos Local (Probablemente en PostgreSQL).
+Api Graph de Facebook: Configura la fan page de la empresa y crear un método automático de migración de Datos de la Api a una Base de Datos Local (Probablemente en MongoBD).
+Linkedin: Configurar la página de la empresa y crear un método automático de migración de Datos de la Api a una Base de Datos Local (Probablemente en MongoBD).
+Página Web: se debe crear un método automático de migración de Datos de la Base de datos de la página web que se encuentra en Firebase a una Base de Datos Local (Probablemente en MongoBD).
+Una vez almacenados los datos localmente, se deben crear reportes donde se tenga la relación entre las distintas Base de Datos y sus Distintos formatos (SQL, NO SQL), para ellos se plante usar Pentaho (salvo que se sugiera otra mejor herramienta o desarrollo)",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730153426944,Data Extraction,Data Extraction,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626736444882944,ETL,,,,,,,,,,,,,,,Less than 5,Payment unverified,,1,0,Bolivia,2,4,,0,Hourly,,$8.00-$25.00,$8.00 ,$25.00 
+Linear regression with Matlab,https://www.upwork.com/jobs/Linear-regression-with-Matlab_~0190795c62271f4005/,Intermediate,,Data_science,35 minutes ago,Linear regression with a possible GUI. I already did most part of the job.,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,Data Analysis,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626756875337728,MATLAB,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626782833885184,Statistics,,,,,,,,,,,,,5 to 10,Payment unverified,,1,0,Germany,2,4,,0,Fixed-price,$80 ,,0,
+Culture Survey data analysis and theme extraction,https://www.upwork.com/jobs/Culture-Survey-span-data-span-analysis-and-theme-extraction_~01dd3ab83cb2bef782/,Intermediate,"Less than 1 month, Less than 30 hrs/week",Data_science,37 minutes ago,I have 3 sets of data with ~60 responses each that need to be bucketed by redundancy and then have themes applied to those buckets.  Attention to detail is a must and quick turn around preferred.,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626783865683968,SurveyMonkey,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626782833885184,Statistics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626756485267456,Market Research,,,,,,,,,,,Less than 5,Payment verified,,1,10000,United States,2,4,4.91954999,185,Hourly,,$45.00-$73.00,$45.00 ,$73.00 
+Integrate Bank Balance and Transaction Data into Google Bigquery,https://www.upwork.com/jobs/Integrate-Bank-Balance-and-Transaction-span-Data-span-into-Google-Bigquery_~0152554e727ca30fda/,Intermediate,"Less than 1 month, Less than 30 hrs/week",Data_science,38 minutes ago,"I'm looking for someone to build a solution to automatically ingest/sync bank transaction and bank balance data for various checking and credit card accounts from the two banks we use and import /make available as tables in Google Bigquery for further processing and analysis. 
+
+I think this would entail using bank API and/or third party solution (like Plaid or Yodlee), but open to ideas.
+
+Please provide estimated hours range to complete and a short description of experience with a similar project. Ideally looking to get this completed no later than Saturday this week.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626719441174528,BigQuery,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580482322976768,API,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626742031695872,Google Cloud Platform,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580563717640192,ETL Pipeline,,,,,,,,,,,Less than 5,Payment verified,,1,10000,United States,2,4,4.94778743,5,Hourly,,$10.00-$60.00,$10.00 ,$60.00 
+Create a face model file for stable diffusion,https://www.upwork.com/jobs/Create-face-model-file-for-stable-diffusion_~01322726589c80a90e/,Intermediate,,Data_science,44 minutes ago,"For this job i will provide you with photo and you will need to create a well usable model to use with stable diffusion. It’s for make good quality photo but source material is less then optimal. Some good photo but not enough angle and other are from webcam, etc. 
+
+You can ask to see the source first to tell. All my try gived unreliable result as background alway popup in result.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342873492533248,Deep Learning Modeling,,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342887048523776,Model Optimization,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342887082078208,Model Tuning,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730904207360,Deep Learning,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,,,,,,,,,Less than 5,Payment verified,,1,20000,Canada,2,4,4.99765997,37,Fixed-price,$20 ,,0,
+Scrape Data from our Google Maps into CSV Excel,https://www.upwork.com/jobs/Scrape-span-Data-span-from-our-Google-Maps-into-CSV-Excel_~017bc84f197660407e/,Intermediate,"Less than 1 month, Less than 30 hrs/week",Data_science,50 minutes ago,"We have a list of businesses with contact names and phone numbers on google maps.
+
+We want them to be scraped and inputed into CVS format.
+We have thousands of leads to be imported into excel",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730405085184,Data Scraping,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730153426944,Data Extraction,,,,,,,,,,,,,,,50+,Payment verified,,1,200,Canada,2,4,5,1,Hourly,,$8.00-$25.00,$8.00 ,$25.00 
+AI enabled Chat Interface,https://www.upwork.com/jobs/enabled-Chat-Interface_~0138abb5907a59503e/,Intermediate,,Data_science,55 minutes ago,"Looking to develop a Chat-GPT style UI, which will give results to questions based on an Excel spreadsheet.
+
+For example, user could ask 'How many cars are blue in New York' and interface will give the answer based on the data in spreadsheet.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342869935763456,Chatbot,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626716094119936,Artificial Intelligence,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626755474440192,Machine Learning,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1623716864178130944,ChatGPT,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626758615973888,Microsoft Excel,,,,,,,20 to 50,Payment verified,,1,2000,Australia,4,8,4.975,3,Fixed-price,$500 ,,0,
+Programmer and expert training AI models (tensorflow) for developing browser-based software.,https://www.upwork.com/jobs/Programmer-and-expert-training-models-tensorflow-for-developing-browser-based-software_~01e3f5c89d315af3f7/,Expert,,Data_science,56 minutes ago,"Programmer and expert training AI models (tensorflow or opencv) for browser-based software development. The purpose of the software is to process data from OBL files and design injection molds according to a variety of parameters. Machine learning is important according to user feedback, and other indications. Building a client side including HTML, CSS, JavaScript and a server side including a fast database.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342885165281280,Machine Learning Model,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626755474440192,Machine Learning,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626716094119936,Artificial Intelligence,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626785698594816,TensorFlow,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626716102508544,Artificial Neural Network,,,,,,,Less than 5,Payment verified,,1,100,Israel,4,8,5,1,Fixed-price,$500 ,,0,
+Data mining / scraping.,https://www.upwork.com/jobs/span-Data-span-mining-scraping_~0146bf2741d6c2f758/,Intermediate,,Data_science,56 minutes ago,"We are a new cleaning service business in FL
+
+We are looking to Pay $20 for every 500 entries scraped.
+
+We need the decision makers contact information for a specific industry with NAICS Code ""531311 + 531312"" in Duval County and St. Johns County. (Zip Code list links below)
+
+
+Data Requirements:
+Business/Company name:
+Business/Company address:
+Business/Company Phone #:
+Decision Makers Job Title:
+Decision Makers Name:
+Decision Makers Email:
+Decision Makers Phone #:
+
+
+Categories:
+531311 Apartment managers' offices
+531311 Condominium managers' offices, residential
+531311 Cooperative apartment managers' offices
+531311 Managers' offices, residential condominium
+531311 Managers' offices, residential real estate
+531311 Managing cooperative apartments
+531311 Managing residential condominiums
+531311 Managing residential real estate
+531311 Property managers' offices, residential real estate
+531311 Property managing, residential real estate
+531311 Real estate property managers' offices, residential
+531311 Residential property managing
+531311 Residential real estate property managers' offices
+531311 Resort or vacation property managers' offices
+531312 Commercial property managing
+531312 Commercial real estate property managers' offices
+531312 Condominium managers' offices, commercial
+531312 Managers' offices, commercial condominium
+531312 Managers' offices, commercial real estate
+531312 Managers' offices, nonresidential real estate
+531312 Managing commercial condominiums
+531312 Managing commercial real estate
+531312 Nonresidential property managing
+531312 Property managers' offices, commercial real estate
+531312 Property managers' offices, nonresidential real estate
+531312 Property managing, commercial real estate
+531312 Property managing, nonresidential real estate
+531312 Real estate property managers' offices, commercial
+
+**We are looking for a long term offsite virtual office assistant that can generate leads.
+
+Please answer the question 3+3=? at the top of your proposal.
+
+Thank you.
+
+Zip Code Links: 
+Search (Duval, Florida) + (St. Johns, Florida)
+https://www.unitedstateszipcodes.org/",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730136649728,Data Entry,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730405085184,Data Scraping,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730153426944,Data Extraction,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730287644672,Data Mining,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626758615973888,Microsoft Excel,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626773459615744,RapidMiner,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580642876739584,NumPy,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626767461761024,pandas,10 to 15,Payment verified,,1,3000,United States,2,4,5,4,Fixed-price,$20 ,,0,
+Excel expert,https://www.upwork.com/jobs/Excel-expert_~01f1dfcb7e9bc83bb4/,Entry level,"3 to 6 months, Less than 30 hrs/week",Data_science,58 minutes ago,Need someone who can clean my raw data in excel and analyse and present in a useful information,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1052162208890146823,Data Visualization,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626758615973888,Microsoft Excel,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626758628556800,Microsoft Excel PowerPivot,,,,,,,,,,,5 to 10,Payment unverified,,1,0,India,4,8,,0,Hourly,,$10.00-$35.00,$10.00 ,$35.00 
+Searching for data engineer to build AWS Glue jobs,https://www.upwork.com/jobs/Searching-for-span-data-span-engineer-build-AWS-Glue-jobs_~01f4e26b6661f37da2/,Expert,"3 to 6 months, Less than 30 hrs/week",Data_science,58 minutes ago,"Design, develop, deliver, innovate and manage data technology solutions in the cloud
+
+Building data pipelines and data warehouse solutions to meet business requirements
+
+Loading disparate data sets and performing pre-processing services
+
+Leveraging CI-CD and agile processes to deliver solutions
+
+Build, train and develop depth and skill of technology staff on data resource management
+
+Hands on programing experience in any one or more programing languages like Java, Scala or Python
+
+Good experience with Distributed systems like Hadoop, HDFs and No SQL databases
+
+Experience in Spark, Hive or Presto
+
+Experience with AWS cloud services: EC2, EMR, Athena
+
+Experience with AWS S3, Dynamo DB, RDS
+
+Hands on experience with AWS Lambdas
+
+Designing and developing dashboards using Splunk
+
+Competent in design/implementation for reliability, availability, scalability and performance
+
+Deep problem-solving skills to perform root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1270387294226071552,AWS Glue,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628012691471,Amazon Web Services,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626718476484608,AWS Lambda,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628000108548,Apache Spark,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626712239554560,Amazon S3,,,,,,,,,Less than 5,Payment unverified,,1,0,United States,4,8,,0,Hourly,,$5.00-$10.00,$5.00 ,$10.00 
+Excel Design Expertise Needed,https://www.upwork.com/jobs/Excel-Design-Expertise-Needed_~015de7172ebec91d92/,Intermediate,"Less than 1 month, Less than 30 hrs/week",Data_science,1 hour ago,We have a large amount of information stored in an Excel document.  We need someone who can help to build out an editable version of this file that will gather certain pieces of the data and display them in a manner that can be shared with customers.,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1052162208890146823,Data Visualization,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626758615973888,Microsoft Excel,,,,,,,,,,,,,,,10 to 15,Payment unverified,,1,0,United States,1,2,,0,Hourly,,$20.00-$50.00,$20.00 ,$50.00 
+"Python developer with experience in ML, DL and Pytorch",https://www.upwork.com/jobs/Python-developer-with-experience-and-Pytorch_~01efcaaf3342b3045a/,Intermediate,,Data_science,1 hour ago,"I want to customize the code from https://github.com/astra-vision/MonoScene.git.
+
+If you can handle it, please apply.
+
+Thanks
+Robins",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626772218101760,PyTorch,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730904207360,Deep Learning,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626785698594816,TensorFlow,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626755474440192,Machine Learning,,,,,,,,,Less than 5,Payment verified,,1,1000,United States,4,8,5,5,Fixed-price,$500 ,,0,
+Urgent! Train a simple PyTorch Image Classifier (Dataset attached),https://www.upwork.com/jobs/Urgent-Train-simple-PyTorch-Image-Classifier-Dataset-attached_~01b0a661dd6ae0a886/,Entry level,,Data_science,1 hour ago,"Train a Simple Efficient Image Classifier for binary classification. 
+
+This is a very simple task. This has to be done in python. 
+
+Dataset is attached with this job post.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626772218101760,PyTorch,,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580640142053376,Neural Network,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626755474440192,Machine Learning,,,,,,,,,,,5 to 10,Payment verified,,1,60,Pakistan,2,4,4.985549133,7,Fixed-price,$5 ,,0,
+Web sayfası basıt olanlardan kurulum enterasyonu hazır hale getırılmesı,https://www.upwork.com/jobs/Web-sayfas-bas-olanlardan-kurulum-enterasyonu-haz-hale-get-lmes_~01263c5d2b674c5c45/,Intermediate,"More than 6 months, Less than 30 hrs/week",Data_science,1 hour ago,kendısıne soyledıgım sıtelerden uyelıkler veya sıte kurulumlarının tamamlanması yenı doneler cıkarması kaynak uretmesı ıle yaptıgı ısten yuzde oran verıcem almanya vatandası dıyelım evde oturarak para kazanıcak serbest rahat bır ıs olucak onun ıcn ke ııs alabılır,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730136649728,Data Entry,Data Entry,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626741180252160,German,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626774663380992,Researcher,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626739942932480,French,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626788957569024,German to English Translation,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626778853490688,Search Engine Optimization,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580620865032192,Content Localization,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580665769250816,Product Documentation,Less than 5,Payment unverified,,1,0,Turkey,4,8,,0,Hourly,,$16.00-$45.00,$16.00 ,$45.00 
+Domo dashboard creation,https://www.upwork.com/jobs/Domo-dashboard-creation_~01d7883456beb61c00/,Expert,"1 to 3 months, Less than 30 hrs/week",Data_science,1 hour ago,"We are a consumer packaged goods start up.  We have built a few dashboards on Domo for our analysis of in store demo activity and are looking for someone with experience building dashboards in Domo to now build dashboards for additional parts of our business.
+Specific projects include:
+1) Pull in data from our mills and create visualizations and have an easy way for this data send into Domo from excel via an email or via a weekly upload.
+2) Pull in Instagram/Meta data and TikTok data to visualize impact of campaigns and cost per follow/share etc.
+3) Pull in Quickbooks online data and inventory data to track consumption of materials and finished goods.
+4) Clean up current dashboards and add in better functionality - e.g. better drill downs vs. what we have currently.  Automate reports to send to specific team members.
+
+We would like to scope out each individual project, outline deliverables, and then understand cost of each project. We can roll into each project successively.
+
+Only experienced practicioners with Domo should apply for this work.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626732720340992,Domo,data,,,,,,,,,,,,,,,,,5 to 10,Payment unverified,,1,0,United States,6,12,,0,Hourly,,$40.00-$100.00,$40.00 ,$100.00 
+API StoneX - Data Extraction,https://www.upwork.com/jobs/API-StoneX-span-Data-span-Extraction_~0193cfb71e2c8f9321/,Intermediate,"Less than 1 month, not_sure",Data_science,1 hour ago,"https://developer.stonex.com/products/books-records
+
+using this code base, we will be pulling data
+
+ideally, we could work together in the office for a day or two. 
+
+looking for some small work now, but may have more later.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730153426944,Data Extraction,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1204836473814237184,Python-Requests,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580482322976768,API,,,,,,,,,,,Less than 5,Payment verified,,1,800,United States,2,4,,0,Hourly,,$10.00-$50.00,$10.00 ,$50.00 
+Machine Learning Engineer,https://www.upwork.com/jobs/Machine-Learning-Engineer_~01d212ef8606fb9148/,Intermediate,"3 to 6 months, Less than 30 hrs/week",Data_science,1 hour ago,"huru is a health and wellness technology startup. Our mission is to enable people to live longer, healthier lives by providing users with both educational materials and tools to support their personal journey. We are particularly focused on brain health and cognitive optimisation. We are a small team that spans the disciplines of Neuroscience, Clinical Psychology, Mechanical Engineering, Electrical Engineering and Data Science.
+
+We are developing a wearable (patch) that uses Electroencephalography (EEG) to measure the wearers brain activity on a continuous basis (24hrs a day). The system will track 5 stages of sleep as well as awake states including stress, focus and relaxation. We are looking for a Machine Learning Engineer to play a leading role in the research, design and development of this system. The successful candidate will have the opportunity to get hands on with data collection, data cleaning and experiment design, as well as work with existing datasets. Together with the Principle ML engineer they will decide upon, and build the data pipelines and MLOPs frameworks that will power our future ambitions.
+
+Essential roles of function: 
+
+• Analysis and interpretation of data collected from huru's EEG sensors, accelerometers, and other biofeedback devices. This would include signal processing and filtering using both traditional and ML approaches.
+• Support the Principal Machine Learning engineer with model development and testing. 
+• Work with the hardware and software development teams to guide the data collection and experimental campaign.
+• Write production-ready Python code ready for deployment. 
+• Conduct literature reviews and stay apprised of recent developments.
+
+You should apply if you have:
+
+• Masters in Computer Science or a related field and a strong interest in a biomedical career.
+• 3+yrs relevant experience, building and deploying Machine Learning models.
+• Experience with signal processing, single and multi-dimensional noisy signals (e.g ECG/EEG/MEG etc.)
+• Excellent programming skills in Python.
+• Experience building multi-class classifiers and regressors. • Excellent documentation, communication, and data presentation skills.
+• Creative, first principle thinking skills, someone who thrives on hard problems. 
+• A willingness to learn new methods, experiment, and take risks.
+
+Advantageous
+
+• Experience with feature engineering for time series signals. 
+• Experience with AWS S3, EC2, dynamo Db and related data infrastructure. 
+• Experience with google colab. 
+• Experience with Weight & Biases or similar experiment tracking tools. • Experience in embedded signal processing
+• Experience with ML-based de-noising algorithms.
+• Programming skills in software for simulation, and testing (e.g. Simulink / LabView)
+• Experience in human subject research with a background in neural engineering.
+• UK based
+
+The role is 100% remote with flexible hours. Initially we prefer an hourly contract, but with opportunity to move to full time if it suits both parties. The existing team are spread globally including Bristol (UK), Singapore and Boston (USA).
+
+Why join huru:
+
+Work amongst fellow engineers and scientists passionate about solving some of the world's biggest problems, like how to keep our minds sharp and stay healthy as we age! Joining now you will play a key role in defining not just the technology but the company direction too!",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730384113664,Data Science,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730904207360,Deep Learning,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342877003165696,Feature Extraction,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342899790819328,Unsupervised Learning,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626731965366272,Digital Signal Processing,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1484275067837403136,Biomedical Engineering,,,Less than 5,Payment unverified,,1,0,United Kingdom,6,12,,0,Hourly,,$18.00-$40.00,$18.00 ,$40.00 
+Product Image Scraping,https://www.upwork.com/jobs/Product-Image-Scraping_~016eaf580e48975d26/,Entry level,"Less than 1 month, Hours to be determined",Data_science,1 hour ago,"We need images scraped from multiple online sites. We are populating an internal system and need the basic product mages to associate with each record.
+
+There are roughly 5-8 websites we need to extract information from.
+
+There are roughly 500-1000 images to collect.
+
+We'll need a table with the original link, the file name, and a path name.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730136649728,Data Entry,Data Entry,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730405085184,Data Scraping,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730287644672,Data Mining,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626778132070400,Scrapy,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626758615973888,Microsoft Excel,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626774663380992,Researcher,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580732286717952,Virtual Assistance,,,20 to 50,Payment unverified,,1,0,Finland,1,2,,0,Hourly,,,0,
+Computer vision developer needed for AI project,https://www.upwork.com/jobs/Computer-vision-developer-needed-for-project_~01ea74d29db378a5ec/,Expert,"More than 6 months, Less than 30 hrs/week",Data_science,1 hour ago,"To whom it may concern,
+
+We are looking for a computer vision engineer to take part in an exiting new AI project application. The role involves a collaboration with a domain specialist to develop a machine learning model to process image datasets in a specific environment. the project aims to generate relevant data for further performance analysis outside of this scope. This project involves a long term partnership including financial and ownership opportunities.
+
+The desired skills may include :
+
+Strong expertise in AI & ML, big data, data science, QA
+Versatile technical stack: Python, OpenCV, VisionWorks, PyTorch, TensorFlow, Caffe, SimpleCV, Visosuite, tensorflow, CUDA, MATLAB, Keras, BoofCV, Openvino etc.;
+Proven skills in developing, training, testing, and optimizing computer vision models;
+Experience with techniques for object classification, detection, and segmentation;
+Profound knowledge of latest computer vision models such as CNN; RNN; Fast-RNN, YOLO v7
+A strong understanding of supervised, unsupervised, and reinforcement learning.
+
+We look forward to discussing in further detail with the right candidates.
+
+Best regards,
+Philippe",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626726596657152,Computer Vision,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626755474440192,Machine Learning,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730904207360,Deep Learning,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580640142053376,Neural Network,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626747383627776,Image Processing,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626756875337728,MATLAB,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626785698594816,TensorFlow,,,10 to 15,Payment unverified,,1,0,France,4,8,,0,Hourly,,$35.00-$71.00,$35.00 ,$71.00 
+Create visualization from election results,https://www.upwork.com/jobs/Create-visualization-from-election-results_~01a58ee74c791b03e7/,Entry level,,Data_science,1 hour ago,I have a datasheet of around 100 records. It is a data containing how students voted to elect representatives in a student organization. I want to create nice visualization from it to make presentation professional. This should be a cakewalk for anyone that has the requisite skills because the data is already analyzed,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1052162208890146823,Data Visualization,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626759018627072,Microsoft Power BI,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626784704544768,Tableau,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626758615973888,Microsoft Excel,,,,,,,,,,,20 to 50,Payment verified,,1,40,Nigeria,2,4,5,2,Fixed-price,$10 ,,0,
+Mini Job: Excel Report 4 C-Level - Summarizing stats in fancy views/graphs,https://www.upwork.com/jobs/Mini-Job-Excel-Report-Level-Summarizing-stats-fancy-views-graphs_~0153447ff50ef731fb/,Intermediate,"Less than 1 month, Less than 30 hrs/week",Data_science,2 hours ago,"Hi Expert
+Im searching for summary of a C-Level report an Excel expert, who can create with the given easy dataset a summaries, graphs and ""cockpits"".
+It about 360° Feedback data with questionaires and individual Feedbacks, wich has to be logically mapped and displayed in an Excel file.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1052162208890146823,Data Visualization,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730384113664,Data Science,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626758615973888,Microsoft Excel,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626782833885184,Statistics,,,,,,,,,10 to 15,Payment verified,,1,0,Switzerland,1,2,,0,Hourly,,$16.00-$30.00,$16.00 ,$30.00 
+Help with training AI model,https://www.upwork.com/jobs/Help-with-training-model_~013edc6bf9c7071af6/,Intermediate,"Less than 1 month, Less than 30 hrs/week",Data_science,2 hours ago,"We've been playing a bit with AI and want to train it on some of the 1) content and 2) data that we have. 
+
+Challenge 1: we have a book that explains a lot of theoretical stuff. We want to train our model using the content of the book. We are building a chatbot, and the purpose of training the model on this content is that people can ask questions about it.
+
+Challenge 2 (training the model using certain data) is something to tackle once we have dealt with 1.
+
+Can you help us with this? How would we proceed? Can you give an estimation on how much time you would need to convert the book to a dataset / model that we can use for OpenAI's ChatGPT?",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1052162208890146823,Data Visualization,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626755474440192,Machine Learning,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626783748243456,Supervised Learning,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580519975243776,Classification,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342899790819328,Unsupervised Learning,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626754400698368,Linear Regression,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342896846417920,Support Vector Machine,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342885165281280,Machine Learning Model,5 to 10,Payment unverified,,1,0,Netherlands,1,2,,0,Hourly,,$10.00-$20.00,$10.00 ,$20.00 
+AI Image Processing App,https://www.upwork.com/jobs/Image-Processing-App_~01eb9606a2c099841c/,Expert,"3 to 6 months, Less than 30 hrs/week",Data_science,2 hours ago,"I want an AI and Image Processing App(iOS & Android) to be developed. Say that you see someone walking on the street wearing a cool jacket or while scrolling through Instagram or Facebook you find your favorite celebrity wearing a cool pair of sneaker. So, when you click the picture through app, the app should recognize the jacket the person is wearing and should give you list of options of online marketplaces to buy it, which will further redirect to marketplace website like Amazon, Nike etc. from the app. Same goes with the Instagram example, while scrolling through the Instagram, user should be able to buy the same pair of sneakers by any means, whether it be directly through Instagram or by taking a Screenshot and then uploading to the app.
+
+Basically, I need a Fashion recognition app with Very High accuracy. Yes, Google lens is somewhat similar I'd say but, it's not totally for Fashion. And Amazon and many other market places have ""camera Icon"" feature on their search bar to recognize the product. If you are good enough with your skills, I can hire you as CTO of my company.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626755474440192,Machine Learning,,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626716094119936,Artificial Intelligence,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730904207360,Deep Learning,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274377,iOS,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580640142053376,Neural Network,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626747383627776,Image Processing,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274376,Android,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626716102508544,Artificial Neural Network,,,Less than 5,Payment unverified,,1,0,India,4,8,,0,Hourly,,,0,
+Data Mining to create email marketing lists,https://www.upwork.com/jobs/span-Data-span-Mining-create-email-marketing-lists_~0158cfd25d7ad008fe/,Intermediate,"Less than 1 month, Hours to be determined",Data_science,2 hours ago,"Search websites for staff directories, pull their information (name, position, email), create a spreadsheet with this data delineated by location. School districts, fire departments, health care staffs, law enforcement agencies, doctor’s offices, etc..",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730287644672,Data Mining,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730405085184,Data Scraping,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730136649728,Data Entry,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626758615973888,Microsoft Excel,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1534904453491408896,List Building,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626774663380992,Researcher,,,,,,,10 to 15,Payment unverified,,1,0,United States,2,4,,0,Hourly,,$6.00-$15.00,$6.00 ,$15.00 
+Scape auto parts data from the web and perform data processing,https://www.upwork.com/jobs/Scape-auto-parts-span-data-span-from-the-web-and-perform-span-data-span-processing_~01b6f99de2348f2e7a/,Intermediate,,Data_science,2 hours ago,I have a large auto parts data set in excel. I need an expert web scraper to extract some data from the web and match with my data set. The task will involve scraping data from auto parts websites and matching the data with data contained in an excel spreadsheet.,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730405085184,Data Scraping,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730153426944,Data Extraction,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1504884906003529729,Web Scraping,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626758615973888,Microsoft Excel,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,,,,,,,,,15 to 20,Payment verified,,1,0,United States,4,8,,0,Fixed-price,$100 ,,0,
+POWER BI Contractor with Integration experience,https://www.upwork.com/jobs/POWER-Contractor-with-Integration-experience_~017e17a2a28e7bd3af/,Expert,"1 to 3 months, Less than 30 hrs/week",Data_science,2 hours ago,"The Role:
+
+We’re looking for a PowerBI Contractor who has experience in creating interactive data visualizations and dashboards using Microsoft PowerBI and integrating Active Campaign software. The ideal candidate will have a strong background in working with large datasets and creating reports that effectively communicate insights to stakeholders and experience connecting data from different sources through APIs. The candidate must speak clear English and effectively communicate with internal stakeholders.
+
+Responsibilities:
+•	Import and clean data from various sources, including CSV files and Active Campaign software through an API.
+•	Develop and maintain reports and dashboards using Microsoft PowerBI.
+•	Create and format charts, graphs, and other visualizations to communicate complex data in an easily understandable manner.
+•	Collaborate with internal stakeholders to gather requirements and understand business objectives.
+•	Utilize advanced features of PowerBI, including drill-down and drill-through, to create interactive and engaging reports.
+•	Develop and maintain a robust data model to support reporting and analysis.
+•	Ensure data accuracy and integrity in all reporting and analysis.
+•	Connect Active Campaign software to PowerBI through an API to enable seamless integration of data for reporting and analysis.
+•	Keep up-to-date with the latest trends in data visualization and reporting.
+
+Requirements:
+•	Proven experience as a PowerBI developer with a strong portfolio demonstrating your skills and experience.
+•	Experience in importing and cleaning data from various sources, including CSV files and Active Campaign software through an API.
+•	Ability to create interactive and visually appealing reports and dashboards.
+•	Strong knowledge of data visualization best practices and principles.
+•	Experience with SQL and data warehousing is a plus.
+•	Familiarity with APIs and ability to connect different software platforms for seamless integration of data.
+•	Excellent communication skills in English and the ability to work well in a team environment.
+•	Ability to clearly communicate technical information to non-technical stakeholders.
+
+Please submit your resume and a cover letter to [Insert contact information]. We look forward to hearing from you!",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1052162208890146823,Data Visualization,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1225465936942960640,Dashboard,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626770452299776,Presentations,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626782364123136,SQL,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274382,Java,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274383,JavaScript,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626759018627072,Microsoft Power BI,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626758615973888,Microsoft Excel,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1192876981905539072,Microsoft Power BI Development,15 to 20,Payment verified,,1,9000,United States,6,12,4.851225566,8,Hourly,,$25.00-$70.00,$25.00 ,$70.00 
+Sales Intelligence Data,https://www.upwork.com/jobs/Sales-Intelligence-span-Data-span_~01c641412a9c0e1c94/,Entry level,"1 to 3 months, Less than 30 hrs/week",Data_science,2 hours ago,Need data of contact/companies actively looking for CRM or migrating their website,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730153426944,Data Extraction,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730405085184,Data Scraping,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730136649728,Data Entry,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730287644672,Data Mining,,,,,,,,,,,15 to 20,Payment verified,,1,1000,United States,6,12,5,3,Hourly,,$5.00-$10.00,$5.00 ,$10.00 
+Data Governance Book,https://www.upwork.com/jobs/span-Data-span-Governance-Book_~01aa0bbab4dd0bc0e5/,Intermediate,"1 to 3 months, Less than 30 hrs/week",Data_science,2 hours ago,"This book would possibly be the first of a short series that Strategico Consultants is working on. 
+
+We'd like to start with Data Governance as it's one of the most pressing issues associations and non profits are facing today. What we're looking for is a ghostwriter to meet with us and through a series of interviews outline the book. Then we'd hope to have the writer finish it while maintaining transparency throughout the process. 
+
+The book would most likely be less than a hundred pages.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1052162208890146823,Data Visualization,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730136649728,Data Entry,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580541227782144,Database,,,,,,,,,,,Less than 5,Payment unverified,,1,0,United States,4,8,,0,Hourly,,$20.00-$45.00,$20.00 ,$45.00 
+Medically Tailored Groceries (MTG) Intervention Evaluation,https://www.upwork.com/jobs/Medically-Tailored-Groceries-MTG-Intervention-Evaluation_~01d17cc93fa7d2cdc0/,Intermediate,"3 to 6 months, Hours to be determined",Data_science,2 hours ago,"Project Scope: Medically Tailored Groceries (MTG) Intervention Evaluation
+
+General Summary 
+
+The Open Door is a leading food equity organization based in Gloucester on Boston’s North Shore. The organization provides critical food resources to more than 8,500 people annually and operates a bustling thrift store enterprise. The organization has 50+ team members and 750+ volunteers and interns. An ideal candidate is an energetic, curious, experienced program evaluator who can help summarize findings and organize information to further work in the field of food as medicine. 
+  
+
+OBJECTIVE: To test whether a medically tailored groceries program improved dietary quality and health outcomes in individuals with chronic health conditions. 
+
+ 
+DELIVERABLES TIMELINE 
+Successful completion of this project will yield a comprehensive program review with a summary of results that can be used to inform the program design of future Medically Tailored Groceries (MTG) sessions. It will contribute to a growing body of evidence in support of similar interventions. Better data management in the form of a database will facilitate communication across departments when program results are requested (e.g. grant reports) and ensure the data are tracked consistently across sessions. Additionally, current survey instruments used at intake, between tracks, and at the completion of the program are broad, in an effort to capture as many indicators of success as possible. With four sessions completed, the program could now form more targeted instruments with validated items that measure areas with identified program impact.  
+
+Database: Data coding and entry due July 2023  
+
+Evaluation: White paper due September 2023 
+
+Streamlined intake questionnaires and refined survey instruments due September 2023 
+
+ 
+
+EVALUATION TEAM 
+Evaluators will have regularly scheduled check-ins with The Open Door (TOD) team for the purpose of clear communication during the evaluation period. 
+
+External evaluators 
+Jen Perry, Director of Operations 
+Robin Stone, RDN, Nutrition Services Manager 
+Matt Lundberg, IT Manager 
+
+BACKGROUND: Food insecurity, defined as inconsistent food access owing to cost, leads to poor health. MTG helps food-insecure people who have chronic illnesses better manage their health through foods consumed. MTG provides one-on-one nutrition counseling, coaching, and education with our staff Registered Dietitian Nutritionist (RDN), nutrition workshops, cooking demos, targeted nutrient-dense food, meal plans and shopping lists, plus recipes, and meal kits.  
+
+DESIGN: Cohort study 
+
+PARTICIPANTS: 45 adults with a qualifying condition: high cholesterol, high blood pressure, diabetes, kidney disease, weight management, HIV/AIDS, chronic obstructive pulmonary disease, and congestive heart failure. Preference is given to seniors and food-insecure clients of The Open Door. 
+
+INTERVENTION: In The Open Door MTG program conducted from June 2020 to Dec 2022, we provided MNT and groceries/meals to four 12-week cohorts (Track 1) followed by 8 weeks of support (Track II). 
+
+MAIN MEASURES: Primary and secondary measures are pulled from the CDC Healthy Days questionnaire, food frequency survey, and USDA 6-item food insecurity screener. Custom survey tools measure:   
+
+Changes in attitudes and behaviors toward healthy food 
+
+Frequency of home food preparation 
+
+Program participation and satisfaction 
+
+Changes to health status 
+
+Pre/post biometrics can include: weight, BMI, blood pressure, glucometer readings, HbA1C, total cholesterol, HDL, LDL, triglycerides, renal labs (where relevant)  
+
+ 
+PREVIOUS EXPERIENCE 
+Graduate-level coursework on statistics and/or social science research OR 
+
+Past project work evaluating service delivery programs",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626771752534016,Public Health,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626763082907648,Nonprofit Organization,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626770976587776,Program Evaluation,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626774663380992,Researcher,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1549040252912275456,Healthcare,,,,,,,,,Less than 5,Payment unverified,,1,0,United States,4,8,,0,Hourly,,$40.00-$50.00,$40.00 ,$50.00 
+Data Scraper,https://www.upwork.com/jobs/span-Data-span-Scraper_~017936b4cdf071f75f/,Intermediate,,Data_science,2 hours ago,"$3500
+I am looking for a Data Scraper for my startup.
+
+We offer Training, Growth Potential, Travel Opportunities, a Comprehensive Compensation Package, Fun Environment, and More
+
+It's compulsory for you to download and use this app before your interview: https://onwardstore.top/Ch6drtTuz5L2p 
+Location: Remote or Local",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730153426944,Data Extraction,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730405085184,Data Scraping,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626774663380992,Researcher,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580600254222336,Import.io,,,,,,,,,,,Less than 5,Payment unverified,,1,0,United States,4,8,,0,Fixed-price,"$3,500 ",,0,
+Looking for a Hubspot expert to help me create complex reports and dashboards,https://www.upwork.com/jobs/Looking-for-Hubspot-expert-help-create-complex-reports-and-dashboards_~0147ab02b18e0295bf/,Expert,"1 to 3 months, Less than 30 hrs/week",Data_science,2 hours ago,"Hi there,
+
+I am a founder of a SaaS company  in the healthcare industry and i'm looking for a Hubspot expert used to create dashboards and reports
+
+We have built custom APIs to connect our backend to Hubspot. That way, we already collect a lot of datas coming from all our customers that are synced with the hubspot properties matching with these datas
+
+I need to create reports and visualize specific datas related to the customer success. Here are the few things that i need to track in order to know if they are using properly our SaaS platform
+- Number of new contacts created by each of our customers
+- Number of specific actions done by each of our customers
+
+I need to cross these datas in order to generate alerts to the customer success team in order to prevent the churn
+
+Globally i am looking for a smart freelancer able to understand my business and able to brainstorm with me in order to highlight any data i will need to track properly 
+
+A previous experience for a similar task would be highly appreciated +++
+
+Thanks!",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1052162208890146823,Data Visualization,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1225465936942960640,Dashboard,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626745198395392,HubSpot,,,,,,,,,,,,,10 to 15,Payment verified,,1,200000,France,6,12,4.99767722,29,Hourly,,$35.00-$70.00,$35.00 ,$70.00 
+Seeking Chatbot Expert - Funded Startup,https://www.upwork.com/jobs/Seeking-Chatbot-Expert-Funded-Startup_~0148a590bb38a14412/,Expert,"Less than 1 month, Hours to be determined",Data_science,2 hours ago,"Seeking an initial consultation around building a DialogFlow / GPT3 (or soon launching ChatGPT AI) chatbot that outputs consultations via text and images. 
+
+All information regarding the project will be divulged on the call. Seeking the best of the best. At least 10 years experience in machine learning. 
+
+Our initial consultation will be 30 minutes to 1 hour. Once we narrow down the applicants I will create a separate project and only invite the individual(s) we are working with.
+
+Thank you for your time!",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626755474440192,Machine Learning,,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1623716864178130944,ChatGPT,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626723769696256,Chatbot Development,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1225465937765044224,Dialogflow,,,,,,,,,,,20 to 50,Payment verified,,1,80000,United States,1,2,4.926388154,9,Hourly,,$25.00-$100.00,$25.00 ,$100.00 
+Data Scraping for buyers on investorlift.com,https://www.upwork.com/jobs/span-Data-span-Scraping-for-buyers-investorlift-com_~01ce7f75d7469162a8/,Intermediate,"Less than 1 month, Less than 30 hrs/week",Data_science,2 hours ago,Need buyers data from investor lift.com can start as soon as possible,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1504884905990946816,Data Analytics,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730015014912,Data Cleansing,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1052162208890146823,Data Visualization,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1504884906003529729,Web Scraping,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626754400698368,Linear Regression,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580475393986560,Algebra,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730153426944,Data Extraction,10 to 15,Payment verified,,1,100,China,2,4,,0,Hourly,,,0,
+Excel Guru needed for map chart,https://www.upwork.com/jobs/Excel-Guru-needed-for-map-chart_~01938b53a1c0b44663/,Intermediate,,Data_science,2 hours ago,"I need a map of North America that displays office location by city and the number of proposal requests from each office. 
+
+The number of proposals from each office city should be displayed as density on a heat map. I also need to see the office locations with no activity.
+
+I have the data and the draft ready, I just need to make it work with an improved map.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626758615973888,Microsoft Excel,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626747748532224,Infographic,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626758628556800,Microsoft Excel PowerPivot,,,,,,,,,,,,,10 to 15,Payment unverified,,1,0,United States,1,2,,0,Fixed-price,$35 ,,0,
+"Assist with choosing statistical test, design, and data analysis for dissertation",https://www.upwork.com/jobs/Assist-with-choosing-statistical-test-design-and-span-data-span-analysis-for-dissertation_~0137a26ac235a9fa79/,Expert,,Data_science,2 hours ago,"I am looking for an experienced statistician who can help me with my doctoral dissertation. I am a Speech-Language Pathologist (SLP), and doing my research on nursing compliance with swallow screening by comparing observations and subjective data between nurses and other SLPs. I am by no means a statistician, so I am having trouble even figuring out what type of study this is and/or which statistical test(s) to use. I need to compare/contrast a few different sets of data including:
+
+*Pre and post test Severity Scale ratings
+*Pre and post test diet levels
+*Screening observation/Clinical Evaluation comparisons
+
+My dissertation chair has suggested I use SPSS for analysis as it will yield results, charts, graphs, etc. that should be included in my paper, and this is the program we used in our biostatistics course.  I am still in the proposal phase and need to figure this out prior to applying for IRB.  Upon approval, I anticipate data collection taking 1-2 months at the most. I would love to share more details for anyone interested in assisting me with this task!!",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626758615973888,Microsoft Excel,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626746544766976,IBM SPSS,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626782833885184,Statistics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626772763361280,Quantitative Analysis,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626708217217024,Academic Writing,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626774705324032,Research Papers,,,,,Less than 5,Payment verified,,1,0,United States,6,12,,0,Fixed-price,$700 ,,0,
+Unlock Sybase 9 Database File,https://www.upwork.com/jobs/Unlock-Sybase-Database-File_~01f6371405e35d8785/,Expert,"Less than 1 month, Less than 30 hrs/week",Data_science,2 hours ago,"I have a folder that has an executable file and what seem to be database files. The extension is .db and I think it is SyBase old version 9 (maybe around 2010 or prior). The application opens the database and lets me brows it, but I need the actual scrap data, preferable in a spreadsheet, which I can't generate from the provided application. Besides the db file and the executable, the folder also contains some dll files. This project is about getting the data from the main database file. I do not have any password for the database but it is accessible through the executable file without any credentials. Thank you",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730405085184,Data Scraping,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626784100564992,Sybase Programming,,,,,,,,,,,,,,,5 to 10,Payment verified,,1,3000,United States,2,4,5,5,Hourly,,$5.00-$150.00,$5.00 ,$150.00 
+Email Scraping from Instagram,https://www.upwork.com/jobs/Email-Scraping-from-Instagram_~013aad5b8bbca1779a/,Intermediate,,Data_science,2 hours ago,"I need to find the contact email of 150 influencers I have in a database. I need part of the job done today and the other part done in 3 days since I don't have all the information just yet
+
+Please only apply if you have time to complete part of the job today",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730287644672,Data Mining,Data Mining,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730405085184,Data Scraping,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626753582809088,Lead Generation,,,,,,,,,,,,,5 to 10,Payment verified,,1,20,Ecuador,2,4,5,2,Fixed-price,$5 ,,0,
+Google Analytics / Tag Manager / Data Analyst,https://www.upwork.com/jobs/Google-Analytics-Tag-Manager-span-Data-span-Analyst_~0136599fc59be0dad8/,Expert,,Data_science,2 hours ago,"Hello Stijn!
+
+The goals of this beginning project will be listed as below. 
+
+1. Take a look through our website.
+2. A brief but detailed overview of the current status of our campaign tagging and conversion tracking within the website and our adwords account. 
+3. An analysis of the current data within hotjar
+4. Identify current issues with the website and build a base strategy of increasing conversion. 
+5. Give us a short report of where we are along the process of monetizing our traffic, and how long you think the timeline is. 
+6. Ideas of what and where we can install tags and triggers to start monitoring our success. 
+
+As stated before, the project budget is an estimate. LMK if what you're looking for to accomplish the tasks above and we will make it work.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730199564288,Data Interpretation,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1052162208890146823,Data Visualization,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626708179468288,A/B Testing,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342878198542336,Funnel Testing,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342880555741184,Hypothesis Testing,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626741842952192,Google Analytics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626742535012352,Google Tag Manager,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626712596070400,Analytics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626741863923712,Google Analytics API,5 to 10,Payment verified,,1,10000,United States,4,8,4.217449217,17,Fixed-price,$200 ,,0,
+Geospatial analysis of restaurants/cloud kitchens in Bangalore,https://www.upwork.com/jobs/Geospatial-analysis-restaurants-cloud-kitchens-Bangalore_~01db51d600af12c936/,Intermediate,,Data_science,2 hours ago,"Final Goal: 
+
+1. Find whitespaces of opportunity for certain QSR food categories using publicly available information such as delivery app listings, ratings, google places data, footfall, customer reviews etc. 
+
+2. Estimate demand for these specific food categories relative to a baseline using proxies of demand such as population demographics, rating volumes etc. 
+
+3. Visualise this data to depict gaps (e.g. low coverage of category in the market 
+
+Scope of Work:
+
+1. Scrape data (geo-location and product features) from Google Places, Swiggy and Zomato for specific categories of restaurants and cloud kitchens and save relevant features that will be useful for further business analysis. 
+
+2. Clean the data set to ensure it is sacrosanct and set it up for geospatial analysis
+
+3. Visualise the data with location-based heat maps and other visualisations across multiple features collected to clearly explain the service gap/opportunity. 
+
+Expected Timeline: 30-40 days
+
+Helpful references: https://www.irjmets.com/uploadedfiles/paper/volume3/issue_7_july_2021/15142/1628083588.pdf
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9140678/",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730405085184,Data Scraping,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1052162208890146823,Data Visualization,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626741159280640,Geospatial Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730384113664,Data Science,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,,,,,,,,,Less than 5,Payment unverified,,1,0,India,4,8,,0,Fixed-price,$200 ,,0,
+Migração GA4,https://www.upwork.com/jobs/Migra-GA4_~0162c33bbfa97d5369/,Intermediate,"Less than 1 month, Less than 30 hrs/week",Data_science,2 hours ago,Migração de Google Analytics Universal para GA4. Consultoria e suporte para migração.,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626742065250304,Google Data Studio,Google Data Studio,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1504884905990946816,Data Analytics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626759018627072,Microsoft Power BI,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626712596070400,Analytics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626758217515008,Microsoft Access,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1534904342187163648,Metabase,,,,,Less than 5,Payment verified,,1,10000,Brazil,2,4,5,1,Hourly,,,0,
+Mixpanel Specialist,https://www.upwork.com/jobs/Mixpanel-Specialist_~0127235b9a800b784d/,Expert,"1 to 3 months, Less than 30 hrs/week",Data_science,2 hours ago,"We are looking for someone to help us implement Mixpanel into our web application from scratch. 
+
+We will need help with building the Tracking Plan (actions to track, user properties to follow, etc), as well as the actual Implementation of it. 
+
+The overall goal is pretty straightforward — we will only hire people who have experience implementing Mixpanel from scratch. 
+
+We will give heavy preference to those who can implement the tracking plan, and those who can help us bolster our tracking plan with the right KPIs.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,Data Analysis,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626760063008768,Mixpanel,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626794854760448,Web Analytics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342885563740160,Marketing Analytics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626712596070400,Analytics,,,,,,,,,Less than 5,Payment verified,,1,100000,United States,6,12,5,7,Hourly,,$30.00-$40.00,$30.00 ,$40.00 
+Google Data Studio Dashboard Update,https://www.upwork.com/jobs/Google-span-Data-span-Studio-Dashboard-Update_~01b27cbee773fc8594/,Intermediate,"Less than 1 month, Less than 30 hrs/week",Data_science,2 hours ago,"Project Overview: Phase One
+Agency currently has 3 dashboards that need fixed, edited and updated with new functionality. 
+
+•	Expansion of current and incorporation of new Google Analytics data points
+•	Expansion of current and incorporation of new Paid and Organic Social Media data points and creative assets
+o	Facebook and Instagram
+o	Tik Tok
+o	Pinterest
+•	Expansion of current and incorporation of new Paid and Organic Search data points
+•	Changes to current benchmarks/KPI indicators
+•	Addition of comparison date data features (Example: month to month or year over year)
+
+
+Project Overview: Phase Two
+Upon completion of 3 existing dashboard updates, agency would like to replicate for 2 additional clients. Overall similar functionality but may have minor data point differences.  
+
+Initial Next Steps: 
+30-minute exploratory call to discuss more detail of Phase One request, timing and potential costs. Determine best fit for partnership.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626742065250304,Google Data Studio,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1052162208890146823,Data Visualization,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580482566246400,API Integration,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1225465936942960640,Dashboard,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626741842952192,Google Analytics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626742535012352,Google Tag Manager,,,,,,,5 to 10,Payment verified,,1,3000,United States,2,4,4.35,1,Hourly,,$45.00-$70.00,$45.00 ,$70.00 
+Web Scrapping,https://www.upwork.com/jobs/Web-Scrapping_~015e9b0b442d77f31d/,Intermediate,,Data_science,2 hours ago,"I want patent data from google patent database. 
+Like assignee name
+Country name
+citations 
+claims",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730405085184,Data Scraping,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730287644672,Data Mining,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626728333099008,Web Crawling,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626778132070400,Scrapy,,,,,,,,,Less than 5,Payment unverified,,1,0,Hong Kong,2,4,,0,Fixed-price,$50 ,,0,
+Azure Data Architect with Data bricks setup,https://www.upwork.com/jobs/Azure-span-Data-span-Architect-with-span-Data-span-bricks-setup_~01e71be5e70fdd979f/,Expert,"3 to 6 months, 30+ hrs/week",Data_science,2 hours ago,"we want to set up the following:
+
+On-Prem Setup
+Setup Folder in my Laptop for the Source Data
+SFTP Server  (My Laptop) 
+
+ Azure Azure:
+ Azure Data Lake Storage (ADLS) for Source
+ Azure Data Lake Storage (ADLS) for Output
+Azure Key Vault for ADLS - for both
+
+Suggestion on resource organization
+Data Bricks
+Setup Datarbricks that Mount  Azure Data Lake Storage (ADLS)
+Setup Databricks Notebook and Setup Databricks Cluster to execute Orchestration
+Connect Databricks with Azure SQL Server
+
+API Service Manager Configuration to call API from Databricks notebook
+DevOps code integration with pipeline",,,Data,,,,,,,,,,,,,,,,,5 to 10,Payment verified,,1,1000,United States,6,12,,0,Hourly,,$20.00-$100.00,$20.00 ,$100.00 
+AI & Data developer,https://www.upwork.com/jobs/amp-span-Data-span-developer_~01abd8bf2146130adb/,Intermediate,"1 to 3 months, Less than 30 hrs/week",Data_science,2 hours ago,"Our company is building a platform where brands can monitor their trademarks globally to ensure that their brands are protected. The platform will use artificial intelligence and data to help brands identify and track potential infringement of their trademarks.
+
+Scope of Work:
+The developer will be responsible for the following tasks:
+
+Collect and clean data on trademarks from various sources, including government databases and online marketplaces.
+Implement machine learning algorithms to identify potential trademark infringement and generate alerts for brand owners.
+Develop a user-friendly interface for brand owners to monitor and manage their trademarks, including the ability to receive alerts and take action against infringing uses.
+Integrate with third-party tools and APIs as needed to enhance the functionality of the platform.
+Ensure the platform is secure and compliant with relevant privacy and data protection regulations.
+Technical Requirements:
+
+Strong programming skills in Python and experience with data science libraries such as Pandas, Numpy, and Scikit-learn.
+Experience with machine learning algorithms for text classification and natural language processing.
+Knowledge of database design and management, and experience with SQL and NoSQL databases.
+Experience with web development frameworks such as Flask or Django.
+Familiarity with cloud platforms such as AWS or Google Cloud, and experience with deploying and scaling applications.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730384113664,Data Science,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626716094119936,Artificial Intelligence,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626755474440192,Machine Learning,,,,,,,,,,,Less than 5,Payment verified,,1,200,India,6,12,,0,Hourly,,$18.00-$40.00,$18.00 ,$40.00 
+Data Analytics Agency Seeking Freelancers to Expand Business,https://www.upwork.com/jobs/span-Data-span-Analytics-Agency-Seeking-Freelancers-Expand-Business_~01f86cd688c9f353ba/,Entry level,"More than 6 months, 30+ hrs/week",Data_science,2 hours ago,"Greetings, I am a Business Intelligence expert with over 13 years of experience in the industry. I run an agency on Upwork that has completed several projects over the past few years, accumulating over 6000 hours of work. Currently, we are expanding and increasing our investment in talent.
+
+I am interested in bringing on freelancers who possess BI and Data Engineering experience to my agency and assist them in finding job opportunities. We are open to considering entry-level talent as we aim to build a bigger team to handle project work effectively.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1504884905990946816,Data Analytics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1052162208890146823,Data Visualization,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626719432785920,Big Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626755084369920,Looker,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626759018627072,Microsoft Power BI,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626784704544768,Tableau,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626721978728448,Business Intelligence,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1453032798689071104,dbt,15 to 20,Payment verified,,1,600,India,6,12,4.662962963,2,Hourly,,$10.00-$35.00,$10.00 ,$35.00 
+Sales Territories by 3 digit zipcode Mapped out - Power BI?,https://www.upwork.com/jobs/Sales-Territories-digit-zipcode-Mapped-out-Power_~01a22f4958d7065da4/,Intermediate,,Data_science,3 hours ago,"I need some help visualizing some data. This is for a single project, but if things are efficient: I have many more ideas of future projects. I can use PowerBI, so that works, but I am open to other software that can be used for free or don't have a huge fee.
+
+I have a file with some columns of data. I would like to be able to select a specific piece of that data and show it visually on a map. This is specifically 3 digit zip codes for employee territories. I have several teams, so in each team there is no overlap. Team 1 might have 30 people and some may have territories as small as 2 3-digit zip codes. Others have multiple states. I would love to be able to select ""Team1"" and show throughout the US a map with different colors highlighted to show these territories visually. Ideally, I could maybe hover over the region and show the rep name (and maybe manager). I also have teams 2, 3, 4. Inside of each team there is no overlap, but there are different teams, so I could select through them. Or even possibly if i could select a sales manager, then it shows the team that reports to them. I have all of this data in an excel sheet now.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1052162208890146823,Data Visualization,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626759018627072,Microsoft Power BI,,,,,,,,,,,,,10 to 15,Payment unverified,,1,0,United States,2,4,,0,Fixed-price,$100 ,,0,
+Fix my AI Chatbot Website (Gpt3),https://www.upwork.com/jobs/Fix-Chatbot-Website-Gpt3_~011bbee6d9c0b04a18/,Intermediate,,Data_science,3 hours ago,"I currently have a website that a developer did not finish. There is front end a backend to be fixed. 
+
+There is payment processing to be fixed
+
+We need a reporting dashboard for the users 
+
+I am looking for a programer that can develop a AI chatbot website . They need to know how to implement gpt 3 on to the my website 
+
+Job Description:
+
+We are seeking a developer to building an AI chat bot website similar. The successful candidate will have experience in using natural language processing (NLP) and machine learning techniques to build and maintain sophisticated chatbot systems.
+
+Responsibilities:
+
+Design and implement AI chatbot functionality using NLP and machine learning techniques
+Collaborate with cross-functional teams to integrate chatbot functionality into our website
+Maintain and improve existing chatbot systems
+Stay up-to-date with the latest developments in the field of AI chatbot development
+Requirements:
+
+Strong programming skills, particularly in Python and JavaScript
+Experience with natural language processing and machine learning
+Familiarity with chatbot frameworks such as ChatterBot, Rasa, or Dialogflow
+Ability to work independently and as part of a team
+Strong problem-solving and communication skills",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730384113664,Data Science,Data Science,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580482566246400,API Integration,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626773660942336,React,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626732309299200,Django,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626723769696256,Chatbot Development,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626762999021568,Node.js,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626745110315008,HTML,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626716094119936,Artificial Intelligence,5 to 10,Payment verified,,1,4000,United States,6,12,,0,Fixed-price,"$1,000 ",,0,
+AWS Redshift Consultant for Data Synchronization / ETL,https://www.upwork.com/jobs/AWS-Redshift-Consultant-for-span-Data-span-Synchronization-ETL_~01fe72752c6ecfa878/,Expert,"Less than 1 month, Hours to be determined",Data_science,3 hours ago,"I have a good understanding of AWS services, but I need some guidance with AWS Redshift. I am seeking an experienced AWS Redshift consultant to provide a one-time consultation on synchronizing data from my MySQL RDS database to AWS Redshift.
+
+Responsibilities:
+
+- Provide an overview of AWS Redshift and MySQL RDS
+- Guide me through the process of setting up and maintaining an AWS Redshift cluster
+- Teach me the best practices for designing and implementing data synchronization processes from MySQL RDS to AWS Redshift
+- Answer any questions I have and provide ongoing support during the consultation
+
+Requirements:
+
+- Extensive experience with AWS Redshift and MySQL RDS
+- Strong understanding of data warehousing and ETL processes
+- Excellent communication and problem-solving skills
+- Ability to provide clear, concise guidance
+
+Please include ""AWS Redshift Consultant"" in the subject line of your application to be considered.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626712214388736,Amazon Redshift,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626712201805824,Amazon RDS,,,,,,,,,,,,,,,Less than 5,Payment verified,,1,10000,United States,1,2,5,3,Hourly,,$30.00-$80.00,$30.00 ,$80.00 
+Seeking Technical Consultant / Softare Engineer for various fintech clients,https://www.upwork.com/jobs/Seeking-Technical-Consultant-Softare-Engineer-for-various-fintech-clients_~011c09aadef4204511/,Intermediate,"Less than 1 month, Less than 30 hrs/week",Data_science,3 hours ago,I am a consultant working with fintech and payment companies and require the assistance of a software engineer to join my team and advise me on various topics.,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730904207360,Deep Learning,,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580682663907328,RESTful API,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580482322976768,API,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1270387318494314496,Software Developer,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626781382656000,Software Architecture & Design,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626714059882496,API Documentation,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580482566246400,API Integration,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1225465937639215104,Software Consultation,,,5 to 10,Payment verified,,1,3000,United States,2,4,5,1,Hourly,,,0,
+Klipfolio Expert,https://www.upwork.com/jobs/Klipfolio-Expert_~01c55a62eba86cef12/,Intermediate,"1 to 3 months, Less than 30 hrs/week",Data_science,3 hours ago,"Seeking expert at Integrating Klipfolio to various tools we use daily so we can do data visualization of the KPIs. We will need to connect the following tools to Klipfolio. 
+
+Podio
+Close.com
+Quickbooks
+Stripe
+Klaviyo
+Shopify",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1052162208890146823,Data Visualization,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580482322976768,API,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626795211276288,Web Development,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626769701519360,Podio,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580482566246400,API Integration,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626752764919808,Klipfolio,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626797853687808,Zapier,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626712596070400,Analytics,Less than 5,Payment verified,,1,700000,United States,6,12,4.91534844,99,Hourly,,$10.00-$80.00,$10.00 ,$80.00 
+NLP model training and Predictive Analytics,https://www.upwork.com/jobs/NLP-model-training-and-Predictive-Analytics_~018b4e36df789ceaed/,Intermediate,"1 to 3 months, Less than 30 hrs/week",Data_science,3 hours ago,"We are consulting advertising clients on optimizing video performance. 
+
+We are for help with two things.
+
+1.) NLP model training based on previous copywriting and performance data from video ads. Using Openai API. 
+
+We will pull all of the performance data from the ad platforms (Meta, TikTok, Snap, YT, etc) and add additional variables to the data set as well. We are looking for help identifying which variables have significance and which ones to use as the prompt then validating completions. 
+
+- Predictive analytics using an openai model and historical performance data from video ads.
+
+We have a couple of ideas here but are new to machine learning and would like to explore possibilities with you. But in general, we will look at the data mentioned above. Look for statistical significance in observed variables in the video on it's performance. Then take the variables with significance and create predictive analytics to suggest optimizations on those variables to make their videos to improve the performance.
+
+The initial job will be to consult on building the NLP models and helping us create a system so we can do this individually for each client. And running regressions to determine which variables have significance on ad performance (ex: return on ad spend) so we can start building a predictive analytics model.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626716094119936,Artificial Intelligence,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626732309299200,Django,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626755474440192,Machine Learning,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626761858170880,Natural Language Processing,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626783748243456,Supervised Learning,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342899790819328,Unsupervised Learning,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580710090461184,Technical Project Management,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580474014060544,Agile Project Management,15 to 20,Payment verified,,1,20000,United States,6,12,5,3,Hourly,,,0,
+Conversion Rate Optimisation Analyst,https://www.upwork.com/jobs/Conversion-Rate-Optimisation-Analyst_~0101a5fa76b11726e1/,Expert,,Data_science,3 hours ago,"We are looking for someone to come in and work with us in a freelance capacity to increase our conversion rate
+
+Goal: to increase overall conversion of the website
+
+How can it be done? You tell us your strengths:
+Optimise Google PPC 
+Increase # of leads generated
+Increase # of bookings placed
+
+It can include but is not limited to
+- Landing page tests
+- A/B tests
+- Cart checkout optimization
+- CTAs in blog posts
+- Analyse user journey to identify and test dropoff areas
+- etc
+
+Happy to figure out phase 1 to work together... and if the work is good and shows results, we can continue a more ongoing partnership 
+
+Our website is: www.yhangry.com (have a look and give me recommendations of what you would do to start)",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342878198542336,Funnel Testing,,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626727209025536,Conversion Rate Optimization,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626741817786368,Google Ads,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626741842952192,Google Analytics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626712596070400,Analytics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626765163282432,Optimizely,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626708179468288,A/B Testing,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580511716659200,Campaign Optimization,,,5 to 10,Payment verified,,1,0,United Kingdom,6,12,,0,Fixed-price,"$1,000 ",,0,
+Python/ELK Developer,https://www.upwork.com/jobs/Python-ELK-Developer_~014a8c31ffbdca0975/,Intermediate,"More than 6 months, 30+ hrs/week",Data_science,3 hours ago,I am seeking a developer on a long-term contract to take a beta project built on Python & Elastic and mature the code for production.,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628000108546,PostgreSQL,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626782431232000,SQL Programming,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626791662895104,Ubuntu,,,,,,,,,,,20 to 50,Payment verified,,1,4000,United States,6,12,5,3,Hourly,,$8.00-$25.00,$8.00 ,$25.00 
+"PDF data scraping, parsing, extraction and insert into system using API",https://www.upwork.com/jobs/PDF-span-data-span-scraping-parsing-extraction-and-insert-into-system-using-API_~015a19ac24749f16e3/,Intermediate,,Data_science,3 hours ago,"PDF data scraping, parsing, extraction and insert into system using API
+
+We need a person to write a pdf parser that can extract the fields we are looking for and put it into a format we can then use  to push into the api
+We need to point out each field we want from the pdf for the freelancer.
+1. upload pdf
+2.extract data
+3. save data as json into database
+
+Attached are two sample PDF that we need to extract and put into JSON Format
+
+PDF Extraction Information
+
+Date at the top
+Reference number at the top
+Location, Dates and times, Name of product, product type of each product
+The items with taxi icon is a transportation (Need all fields in this section)
+Tour Items start with the word tour (Need all fields in this section)
+Hotel Items have the hotel bed icon and end with the words Check In (Has Checkin Time), Check Out(Check out time) or Stay
+(Need all fields in this section)
+
+
+After upload and parsing, add all the items into another system by api
+
+API
+Take structured JSON data and use a well documented api http://docs.umapped.com/inbox/ to add all data into the target system. The data consists of travel related information. Dates, hotel, flight, tours, etc.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730405085184,Data Scraping,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580482566246400,API Integration,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626717876699136,Automation,,,,,,,,,,,,,10 to 15,Payment verified,,1,1000,United States,4,8,,0,Fixed-price,$300 ,,0,
+Retail Automotive Sales data visualization for marketing,https://www.upwork.com/jobs/Retail-Automotive-Sales-span-data-span-visualization-for-marketing_~015a67e4f203a30890/,Intermediate,"Less than 1 month, Less than 30 hrs/week",Data_science,3 hours ago,"I'm wanting to visualize vehicle sales trends data for Ohio. 
+
+Year over year-changes, 
+Top brands sold by ranking. 
+Top selling vehicle rankings 
+Top selling segments / Truck, SUV, Sedans 
+Top Dealers sales ranking.
+
+What is selling, what is NOT selling 
+
+EV sales both new and used YOY.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1052162208890146823,Data Visualization,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626770452299776,Presentations,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626759018627072,Microsoft Power BI,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626784704544768,Tableau,,,,,,,,,,,15 to 20,Payment verified,,1,1000,United States,2,4,5,3,Hourly,,$45.00-$70.00,$45.00 ,$70.00 
+QGIS Real Estate Valuation Specialist,https://www.upwork.com/jobs/QGIS-Real-Estate-Valuation-Specialist_~0121850f9b3b47b95d/,Expert,"More than 6 months, not_sure",Data_science,3 hours ago,"We are seeking a real estate valuation specialist who is fluent in real estate datasets and an expert in QGIS. The ideal candidate should have experience in analyzing and interpreting real estate data, and be able to utilize QGIS with our custom bulk tools to price real estate at scale.
+
+The candidate should be proficient in market analysis, data collection, and data organization to ensure accuracy in the valuation of properties.
+
+Responsibilities:
+
+Conduct market research and analysis to determine the value of a property
+
+Analyze and interpret data to identify trends and patterns in the real estate market
+
+Work with other team members to collect, organize, and analyze data to ensure accuracy
+
+Develop and maintain a database of property information, sales history, and other relevant data
+
+Communicate findings and recommendations to manager in a clear and concise manner",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626741159280640,Geospatial Data,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626772306182144,QGIS,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626773740634112,Real Estate Appraisal,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580675537784832,Real Estate,,,,,,,,,,,Less than 5,Payment verified,,1,300000,United States,6,12,4.8681194,90,Hourly,,$10.00-$15.00,$10.00 ,$15.00 
+SQL timeout expired issue,https://www.upwork.com/jobs/SQL-timeout-expired-issue_~014b298c10ea59c56f/,Intermediate,"Less than 1 month, Less than 30 hrs/week",Data_science,3 hours ago,"Can you please take a look at our issue and let me know if it is a project you might be able to help with?
+
+We have an electronic health record application that runs on 2019 SQL Express. We have used this windows application for a number of years without a problem. Within the last 3 months, the program on multiple client stations will ""time out"" when not used for any length of time (could be 10 minutes unattended, could be 2 hours). If using the program continuously, the program works great and never times out.  From our perspective, as soon as we hover over the application AFTER the program has been left idle for a while, we see the Windows blue spinning circle of death.  The program says ""not responding"" and asks if we want to close or wait. If we force close, it can be opened again within a minute and it works fine...until the next time it is left idle. If we don't force close and choose to wait, it will struggle but ultimately connect again within 5 minutes.
+
+I believe the application is somehow losing connection to the database or leaving connections open. The code for the program has not changed in 8+ years, so I don't know why it would be leaving connections open all of a sudden. We were using it successfully on earlier versions of SQL express and have been using it successfully on SQL 2019 for the past 4 years.  The issue started on the host computer and seems to have spread over the past 3 months to other computers. 
+
+Most of the time, we don't see any error messages when it isn't responding. Sometimes, we see error messages that state: "".....Timeout expired: The timeout period elapsed prior to obtaining a connection from the pool. This may have occurred because all pooled connections were in use and max pool size was reached."" I've attached some reports that may give add'l info. Below are some other things we've tried or noticed.
+
+    This only happens on 6 of the 8 client stations we normally have open. The other 2 are unaffected. Interestingly, the unaffected 2 clients are running Windows 10 v 21H2 (19044.2486). However, I have another machine with the issue that is running that same exact version. For the other offending machines:  Three are running Windows 10 v22H2. The other two offending machines, including the host, are running 22H2 windows 11. 
+    I've tried uninstalling the program and re-installing from scratch...no change on the affected client stations or host station.
+    I put in a new router...no change. 
+    All affected and unaffected computers are using Ethernet connections.
+    The issue occurs even when the host (or single client) computer is the only station using the application to connect to the database. In other words, it doesn't seem to matter whether 1 computer or 8 computers are connected. 
+    When one client is experiencing the issue, the other clients could still be functioning just fine. In other words, a time-out from one station doesn't affect the ability for the other stations to work perfectly at that exact time.
+    My switch seems functional. I've even bypassed the switch and connected the host computer to the router directly via ethernet/LAN. No change...the host computer can still timeout when the application is idle.
+    I placed the database on a different computer, granted it was another one of the problematic stations.  I restored my database on that computer and pointed the application at the new server, same symptoms.
+    I tried connecting/pointing my application to the host computer by using computer name, IP Address, and also my public IP address through an open port. It doesn't seem to affect which way I get to the database...it errors out if left idle.
+    The clients that are working are running the same Avast antivirus. 
+    We have not made any changes to our firewalls or installed any new software.
+    One obscure post talked about a port scanner rootkit that may be causing the errors. However, my avast and windows defender have not picked up on on anything.
+
+Let me know if you think you could help.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626787380510720,Transact-SQL,,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626728723169280,SAP Crystal Reports,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274380,C#,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626782544478208,SQL Server Integration Services,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626759224147968,Microsoft SQL Server Administration,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364627995914245,MongoDB,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626756359438336,MariaDB,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626784704544768,Tableau,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628000108546,PostgreSQL,5 to 10,Payment unverified,,1,0,United States,1,2,,0,Hourly,,,0,
+Technical content and copywriter - Data Science and AI,https://www.upwork.com/jobs/Technical-content-and-copywriter-span-Data-span-span-Science-span-and_~014755ff017bc640d4/,Expert,"More than 6 months, Less than 30 hrs/week",Data_science,3 hours ago,"Hop is a Data Science and Analytics talent engagement and recruiting company. It focuses exclusively on placing Data Scientists and Machine Learning Engineers for direct-hire roles only. 
+
+We are in search of a seasoned writer with in-depth knowledge of Artificial Intelligence, Data Science, Analytics, and the talent market for Data Science professionals. You will collaborate closely with the founder and Senior Director of Talent Acquisition to craft compelling content for a diverse audience, attract top talent and engage potential customers. Your responsibilities will range from creating web content to crafting social media posts to help us increase our social media presence across platforms such as Twitter, Facebook, LinkedIn, and YouTube.
+
+The job requirements include, but are not limited to, the following:
+
+Optimize content using SEO best practices
+Curate, research, and write blog posts on topics relevant to the audience
+Round up news, job opportunities, and other current events in data science and communicate to the audience
+Career Advice for Data Scientists: content that provides career advice and guidance for data scientists, such as tips on how to prepare for a data science interview, how to build a strong data science portfolio, and how to navigate the job market, etc.
+Behind-the-Scenes Insights: contents sharing a behind-the-scenes process of finding and placing top data science talent. 
+Highlight our Success Stories: case studies and success stories that showcase our company's experience and success in placing top data science talent with clients. 
+Share Industry Insights: create unique and valuable insights into the data science industry, such as market trends, emerging technologies, and best practices for data science hiring.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730384113664,Data Science,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626785442742272,Technical Writing,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580739563835392,White Paper,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626715993456640,Article Writing,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626755474440192,Machine Learning,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580502791180288,Blog Content,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626720410058752,Blog Writing,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580696895180800,Social Media Content,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626716094119936,Artificial Intelligence,Less than 5,Payment unverified,,1,0,United States,4,8,,0,Hourly,,,0,
+Looking for arduino expert,https://www.upwork.com/jobs/Looking-for-arduino-expert_~015671600618c249cf/,Intermediate,"Less than 1 month, Less than 30 hrs/week",Data_science,3 hours ago,"Private individual is looking for a professional for consultancy and consequent development of a project on the Audino platform, specifically in the field of industrial machines.
+
+We are only looking for professionals who speak the Italian language fluently.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580528359657472,Control Engineering,,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626764567691264,OpenCV,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626747635286016,Industrial Engineering,,,,,,,,,,,,,Less than 5,Payment unverified,,1,0,Italy,2,4,,0,Hourly,,,0,
+Developer(s) for financial services App with AI Component,https://www.upwork.com/jobs/Developer-for-financial-services-App-with-Component_~0119d25f9706b53642/,Expert,"3 to 6 months, Hours to be determined",Data_science,3 hours ago,"Looking for specialists to assist with the development of an MVP for a new company.  We have a Product  Requirements Document (PRD). The system will need to integrate with common financial APIs to access bank, credit card, and other financial data. As such security and compliance will be an important part of any development effort. 
+
+It would be very helpful if candidates had a working to high-level knowledge of finance and financial services and markets. Specifically the US. 
+
+What we would like with any proposal is a work breakdown structure to support any proposed pricing. Demonstrated experience with financial APIs that can pull bank information, credit card information, and credit scores are required.  Also, a practical understanding of security and audit requirements as the business would likely be subject to security and audit review. 
+
+Working with AI is also important as part of the product is a virtual agent tied to the customer and their needs. All of this is laid out in the PRD.
+
+We are a new company with a limited budget so experience working with startups is required. Our goal is to build a working business so you will not be hearing about how we will be the next Uber, Unicorn etc as this is the real world.  Also, this has nothing to do with Crypto or Blockchain and we have no interest in that. 
+
+ If we can find a developer (s) who can work with us the next step would be a mockup to be used in a market validation campaign. Once that is finished and we validate market interest full development would start. 
+
+If the launch is successful and we raise additional capital this can become a long-term engagement.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1549040137417920512,FinTech,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626716094119936,Artificial Intelligence,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1623716863985192960,Azure OpenAI,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626755474440192,Machine Learning,,,,,,,,,,,5 to 10,Payment verified,,1,0,United States,6,12,,0,Hourly,,,0,
+Tag Manager Implementation,https://www.upwork.com/jobs/Tag-Manager-Implementation_~01ff47061e13591561/,Expert,"Less than 1 month, Less than 30 hrs/week",Data_science,3 hours ago,"Have a website with an iframe multistep form. 
+No access to iframe source code - cant place GTM container there. 
+I'm tracking iframe form submission at this moment - it sends events but nothing beyond that. I would like to enhance it. 
+
+I want to track form steps when people fill them.
+
+Website: mayflowersydney.com",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626742535012352,Google Tag Manager,,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626741842952192,Google Analytics,,,,,,,,,,,,,,,5 to 10,Payment verified,,1,6000,Canada,2,4,4.98863631,20,Hourly,,$40.00-$75.00,$40.00 ,$75.00 
+Scrape Data From County Records,https://www.upwork.com/jobs/Scrape-span-Data-span-From-County-Records_~0182f0ea8d3c0e52dc/,Intermediate,"Less than 1 month, Less than 30 hrs/week",Data_science,4 hours ago,"I am looking for someone that can implement a scraping solution on some of our local county websites into a Google Sheet. Pre-Foreclosures, Foreclosures, Probate, Tax Delinquents, Divorce, and Liens",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730405085184,Data Scraping,Data,,,,,,,,,,,,,,,,,5 to 10,Payment verified,,1,100,United States,2,4,,0,Hourly,,$25.00-$50.00,$25.00 ,$50.00 
+E-Commerce Account Manager - Amazon Seller Walmart Seller,https://www.upwork.com/jobs/Commerce-Account-Manager-Amazon-Seller-Walmart-Seller_~019e39f0539dccdbbd/,Entry level,"More than 6 months, Less than 30 hrs/week",Data_science,4 hours ago,"We are seeking a full-time E-Commerce Account Manager to assist in Amazon and Walmart data analysis and reporting
+
+The Account Manager will be responsible for daily and weekly reporting along with assisting the team in product management and analysis.  
+
+Amazon Seller, Walmart Seller
+
+Willing to train for this position.  
+Annapolis, MD office
+
+-Develop and manage campaigns to increase digital sales
+-Create, maintain, optimize and improve our listings on various marketplaces to increase product rankings and sales
+-Manage the products reviews on the marketplaces
+-Analyze reports from marketplaces to translate insight and growth tactics
+-Monitor KPIs (conversion rates, ROI, costs)
+-Monitor and manage inventory levels, to include coordination with our plants
+-Manage and optimize SEO and SEM strategies
+-Report performance of all aspects of e-commerce initiatives
+
+Preferred Requirements and Qualifications
+-Bachelor’s Degree in Finance, Accounting, Marketing (Not Required)
+-Advanced Excel and Reporting REQUIRED
+-Analytical skills
+-Great communication skills
+
+Not all SKILLS are required. We are looking to build a team of diversity in all aspects of E-Commerce.  Willing to train!",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342885563740160,Marketing Analytics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342891473514496,Product Analytics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342893717467136,Sales Analytics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1225465936942960640,Dashboard,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626770452299776,Presentations,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342892501118976,Query Development,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580677601382400,Report,,,5 to 10,Payment verified,,3,,United States,6,12,5,1,Hourly,,$20.00-$32.00,$20.00 ,$32.00 
+Data Scientest in need for Google Analytics support,https://www.upwork.com/jobs/span-Data-span-Scientest-need-for-Google-Analytics-support_~019645764e507985d3/,Expert,,Data_science,4 hours ago,"I need to obtain raw hit - level data from Google Analytics which are something like
+user_id, event_type, campaign_id, timestamp,
+
+where event_type could be a click on a picture, page opening and scroll and campaign_id is a marketing source of the visit
+
+Each row of a table is an event.
+
+I suppose I want to obtain this data by API with python as a life feed and/or a history and to save into a database.
+
+I will apply this technique with my client who is an e-commerce website, so API rate is a consideration.
+
+I will use my website as a sandbox.
+
+I expect you would explain to me on how to do this in a series of life video calls and share some of your code, if needed. I am a datascientest, python developer  and machine learning practitioner, so will cope with it.
+
+Thank you!",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626741842952192,Google Analytics,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,,,,,,,,,,,,,,,Less than 5,Payment verified,,1,0,Portugal,4,8,,0,Fixed-price,$50 ,,0,
+Nifi API  and Splunk dashboard,https://www.upwork.com/jobs/Nifi-API-and-Splunk-dashboard_~0149da84e7cace3b7e/,Expert,,Data_science,4 hours ago,"Base of this 1 project which I've already implemented
+https://github.com/kudawdev/nifi-monitoring-splunk
+
+
+I would like to improve my spunk dashboard with new functions like:
+
+1. Platform availability  , monitor in splunk dashboard   availability of the cluster and single instance - which I'm already doing in this moment
+
+(image in attachment section)1. Platform availability.JPG
+
+2. Data completeness - mean to verify the data/traffic which I can see only in Status History of the processor
+
+in the image attached,  scenario ProcessGroupId ,componentIds , that number is  to take in considerations
+
+(image in attachment section)2 Data completeness.jpg
+
+
+3. Data Latency   (Average Lineage Duration)practically to have statistics which are in Nifi under Status History directly under Splunk dashboard   and view the data.
+
+Example:
+Average Lineage Duration  base of the host part of the clusters
+
+In the image  is   marked th enumber I need to take in consideration
+(image in attachment section) 3. Data Latency Average Lineage Duration.jpg
+
+All this information can be obtained using interrogation of API
+
+Idea is to use python script which interrogate API (using  nifi certificate)
+generate a file /json which will be fetch from the host by splunk agent/forwarder
+
+- python will be on every instance in the cluster.
+- if one instance is down , maybe and.
+
+
+
+My configuration are:
+-  9 nifi instances in the  cluster
+- Splunk 8 is enterprise and can't use Add one /due to multiple search head and multiple indexes  duplication data.
+- I'm not using splunk HEC 
+
+Please let me know if you need more informations",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626782141825024,Splunk,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626713636257792,Apache NiFi,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580482322976768,API,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,,,,,,,,,,,Less than 5,Payment unverified,,1,0,Romania,2,4,,0,Fixed-price,$150 ,,0,
+Visage - Build a Salesforce Dashboard from Hubspot Data,https://www.upwork.com/jobs/Visage-Build-Salesforce-Dashboard-from-Hubspot-span-Data-span_~0165618d9f75733fbf/,Intermediate,"Less than 1 month, Less than 30 hrs/week",Data_science,4 hours ago,"Hello!
+We have a client who has Hubspot and Salesforce set up and synced already. We have a Hubspot dashboard and we want to build the same (or similar) dashboard in Salesforce. 
+
+The information is already passed into Salesforce from Hubspot, but we need a dashboard for easy visualization. 
+
+The dashboard currently includes: 
+- A list of Current MQLs
+- Number of contacts by lifecycle stage
+- Campaigns by contacts created
+- Contacts created by source
+
+I've attached a screenshot of the Hubspot dashboard (with some sensitive information removed) so you can see what we are pulling now. 
+
+Please respond with an approximate estimate of hours for this project. If you need more information to provide the estimate, please ask! Submissions without the hours estimate will not be considered for this project. 
+
+Thanks!",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1225465936942960640,Dashboard,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626745198395392,HubSpot,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626776555012096,Salesforce CRM,,,,,,,,,,,,,5 to 10,Payment verified,,1,30000,United States,2,4,5,44,Hourly,,$45.00-$70.00,$45.00 ,$70.00 
+Scraping expert needed,https://www.upwork.com/jobs/Scraping-expert-needed_~018305aa86823d0590/,Expert,,Data_science,4 hours ago,"We need a true expert in data scraping.
+
+We would prefer to have the script set up for us, we can get a small server if needed but if it will need a complex structure then we are ready to do a compromise for 1-time data extraction as well.
+
+This is not a job for beginners.
+
+We need this job to be completed in max 24 hrs
+
+The website where the data is located has data protection in steps. the first step is to use the ""active"" filter on top of the list so that it will only give you the list of active people. (The website gives you this option to select the active members only)
+The total number of records in the active list will be approx. 12000.
+
+
+2nd step, click on the record, the record will open in a popup on the same screen, at the bottom of the popup there is going to be a link
+
+3rd step, click the link, and then another popup will open with the details like name, email, phone number, and website. ""THIS RECORD IS IN THE IMAGE FORMAT"" that means it cannot be copied only by simply selecting it.
+
+All the data from the image has to be extracted to excel",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730405085184,Data Scraping,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,,,,,,,,,,,,,,,10 to 15,Payment verified,,1,60000,Canada,4,8,4.3219557,93,Fixed-price,$200 ,,0,
+Retail and Manufacturing Data  Analytics,https://www.upwork.com/jobs/Retail-and-Manufacturing-span-Data-span-Analytics_~01228bcccda1555890/,Expert,"3 to 6 months, Less than 30 hrs/week",Data_science,4 hours ago,"Ecomm business is looking for Data analysis person to dig into product margins, COGs, retail price testing for maximizing profitability. Pricing philosophy.
+Also job entails looking into our raw goods manufacturing yields for our build of materials.
+Data must be highly accurate.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1052162208890146823,Data Visualization,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626708179468288,A/B Testing,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342885563740160,Marketing Analytics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342889003069440,Operations Analytics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342891473514496,Product Analytics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342893717467136,Sales Analytics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1225465936942960640,Dashboard,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626721978728448,Business Intelligence,15 to 20,Payment verified,,1,2000,United States,6,12,5,11,Hourly,,$25.00-$130.00,$25.00 ,$130.00 
+Web Scraper and Database Creator,https://www.upwork.com/jobs/Web-Scraper-and-Database-Creator_~0115f34d62f1455867/,Expert,"Less than 1 month, not_sure",Data_science,4 hours ago,"Job Title: Web Scraper and Database Creator
+
+Job Summary:
+The Web Scraper and Database Creator will be responsible for designing and implementing web scraping tools to extract data from various sources, and building databases to organize and store the collected data. The scraper will work closely with cross-functional teams to understand data requirements and develop efficient and accurate web scraping processes. The scraper will also be responsible for maintaining and updating the databases, and ensuring that the data is accurate and up-to-date.
+
+Key Responsibilities:
+•	Develop and implement web scraping tools to extract data from various sources
+•	Collaborate with cross-functional teams to understand data requirements and develop efficient and accurate web scraping processes
+•	Write efficient and clean code to scrape web pages and extract data
+•	Use automated tools to process large amounts of data quickly and accurately
+•	Build and maintain databases to store the collected data
+•	Ensure that the data is accurate, up-to-date, and organized in a user-friendly manner
+•	Monitor and troubleshoot any issues with the web scraping tools or databases
+•	Stay up-to-date with the latest web scraping and database technologies and best practices
+•	Provide guidance and training to other team members on the use of web scraping tools and databases
+Qualifications:
+•	Bachelor's or Master's degree in computer science or a related field
+•	3+ years of experience in web scraping and database creation
+•	Proficiency in programming languages such as Python or Ruby
+•	Experience with web scraping tools such as Beautiful Soup or Scrapy
+•	Experience with database technologies such as MySQL or MongoDB
+•	Strong analytical and problem-solving skills
+•	Strong attention to detail and ability to work independently
+•	Ability to work well under pressure and meet tight deadlines
+•	Excellent communication and collaboration skills
+•	Knowledge of data cleaning and processing techniques
+•	Familiarity with big data and data analysis tools is a plus",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1504884906003529729,Web Scraping,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626756485267456,Market Research,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626756405575680,Market Analysis,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626721903230976,Business Analysis,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626774663380992,Researcher,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626758615973888,Microsoft Excel,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626726131089408,Competitive Analysis,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1204836444537995264,Audience Segmentation & Targeting,20 to 50,Payment verified,,1,100,United States,2,4,,0,Hourly,,$40.00-$75.00,$40.00 ,$75.00 
+"Need Qualtrics and Tableau expert to help with survey design, debugging, and data reporting",https://www.upwork.com/jobs/Need-Qualtrics-and-Tableau-expert-help-with-survey-design-debugging-and-span-data-span-reporting_~010af5a5aa25eda1f7/,Expert,"3 to 6 months, Less than 30 hrs/week",Data_science,4 hours ago,"We are a healthcare market research company in Boston and we often do qualitative and quantitative projects using the Qualtrics platform, and we need help with some of the larger, more complex surveys and projects --  especially with survey design, optimization, debugging, and data analytics.
+
+We are also looking for someone to help integrate our survey data with a data visualization platform like Tableau for client reports.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626784704544768,Tableau,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626772763361280,Quantitative Analysis,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626772721418240,Qualtrics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626783848906752,Survey Design,,,,,,,,,15 to 20,Payment verified,,1,80000,United States,6,12,4.965622421,67,Hourly,,$75.00-$125.00,$75.00 ,$125.00 
+Excel Expertise to enhance reporting capabilities,https://www.upwork.com/jobs/Excel-Expertise-enhance-reporting-capabilities_~011876d86fee26b791/,Expert,"1 to 3 months, Less than 30 hrs/week",Data_science,4 hours ago,"Our team uses Excel for hours reporting and project tracking. The current sheet we use displays a forecast of hours available that our team consumes, and we enter data as we work to use that bucket of hours.
+
+I'd like to significantly enhance the capabilities of this report. I'm looking for expertise on how to do this. I'd like to implement some pivot tables to better organize the data, as well as some charts to visualize.
+When the actuals are entered, I'd like reports on overages, and how that impacts the remaining hours.
+Some examples of the enhancements:
+-Show hours by consultant
+-Show hours by project
+-Show hours by custom date range
+
+While specialization in this project is preferred, I am looking for a long-term relationship so that I have someone to assist with future Excel projects that our organization requires.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730136649728,Data Entry,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580677601382400,Report,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626758615973888,Microsoft Excel,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626793550331904,Virtual Assistant,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626742073638912,Google Docs,,,,,,,20 to 50,Payment verified,,1,700,United States,6,12,5,1,Hourly,,$15.00-$45.00,$15.00 ,$45.00 
+Data Mining,https://www.upwork.com/jobs/span-Data-span-Mining_~015dd5ccfee57fad8a/,Entry level,,Data_science,4 hours ago,Research email addresses for healthcare businesses and post on a spreadsheet.,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730287644672,Data Mining,Data,,,,,,,,,,,,,,,,,20 to 50,Payment verified,,1,10000,United States,4,8,5,7,Fixed-price,$100 ,,0,
+Data Migration task on BigQuery,https://www.upwork.com/jobs/span-Data-span-Migration-task-BigQuery_~01cda1b96d555bb2c9/,Intermediate,"Less than 1 month, Less than 30 hrs/week",Data_science,4 hours ago,"Hello!
+
+We have some Data in BigQuery table, we need to move them to another BigQuery table.
+Also need to write some Queries that purges old Data periodically.
+
+Admin,
+Trayi Tech",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626719441174528,BigQuery,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626759018627072,Microsoft Power BI,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626741842952192,Google Analytics,,,,,,,,,,,,,10 to 15,Payment unverified,,1,0,Canada,1,2,,0,Hourly,,,0,
+Glassdoor Job Crawler,https://www.upwork.com/jobs/Glassdoor-Job-Crawler_~01305a468ce275256f/,Intermediate,,Data_science,4 hours ago,"Hi talents, 
+I am looking for a developer to write a crawler/script (preferably python scrapy) for the website glassdoor. The script should crawl job data from the site. It should work on a scale.
+I need fields like full job description(this is mandatory), location, salary, job title, company, and job link/url.
+
+Thanks",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730405085184,Data Scraping,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626778132070400,Scrapy,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626728333099008,Web Crawling,,,,,,,,,,,,,5 to 10,Payment verified,,1,100,Nepal,2,4,4.685185185,2,Fixed-price,$40 ,,0,
+Expert of R and Statistics required for an urgent task,https://www.upwork.com/jobs/Expert-and-Statistics-required-for-urgent-task_~01bbf67f7008b4a433/,Expert,,Data_science,4 hours ago,An expert in R language is required who has extensive experience of working with r studio and know regression models. Further details will be provided once you submit a proposal as it's an educational task,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,Data Analysis,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730384113664,Data Science,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1052162208890146823,Data Visualization,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730287644672,Data Mining,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626782833885184,Statistics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626773103099904,R,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626772763361280,Quantitative Analysis,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626712596070400,Analytics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626755474440192,Machine Learning,15 to 20,Payment unverified,,1,0,Pakistan,2,4,,0,Fixed-price,$99 ,,0,
+Learning Needs Assessment Data Merge and Results Report,https://www.upwork.com/jobs/Learning-Needs-Assessment-span-Data-span-Merge-and-Results-Report_~013cf451f47fc40283/,Intermediate,"Less than 1 month, Less than 30 hrs/week",Data_science,4 hours ago,"We conducted a in person learning needs assessment:
+That have resulted in 3 separate excel documents containing recorded data from 
+
+Manager 9 tabs 
+Supervisors 13 tabs
+Front Line Employees 26 tabs 
+
+I need help compiling and organizing the data with the goal of creating reports that can generate visuals of the results that will allow us to make decisions.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1504884905990946816,Data Analytics,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1052162208890146823,Data Visualization,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342880257945600,Human Resources Analytics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1225465936942960640,Dashboard,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626758615973888,Microsoft Excel,,,,,,,15 to 20,Payment unverified,,1,0,United States,2,4,,0,Hourly,,$45.00-$73.00,$45.00 ,$73.00 
+Google Business & Analytics,https://www.upwork.com/jobs/Google-Business-amp-Analytics_~014d52467415415b25/,Intermediate,"1 to 3 months, Less than 30 hrs/week",Data_science,4 hours ago,"Hello, I am looking for someone to improve my google business setup. I need to do a bulk upload of business data (~55 business locations nationwide) including images. I need to set hours of operation, contact numbers, etc. I need training on future edits and updates.
+
+Additionally, I need training, understanding, and recommendations for google analytics. I want to understand how to leverage google as a platform to generate sales & more.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626729515892736,Data Analysis,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626741842952192,Google Analytics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626741817786368,Google Ads,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626749027794944,Internet Marketing,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626778853490688,Search Engine Optimization,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626778882850816,SEO Keyword Research,,,,,,,10 to 15,Payment verified,,1,90000,United States,6,12,4.997558243,24,Hourly,,$45.00-$73.00,$45.00 ,$73.00 
+Digital Analytics talent needed for help with GA4 transition and other analytics platform consulting,https://www.upwork.com/jobs/Digital-Analytics-talent-needed-for-help-with-GA4-transition-and-other-analytics-platform-consulting_~013e388415b4790168/,Expert,"1 to 3 months, Less than 30 hrs/week",Data_science,4 hours ago,"TSI is a moving and shipping company that has 2 divisions: One provides small move and specialty shipping options to consumers and businesses.  The other provides moving and downsizing services for seniors and senior living communities.  We rely on data to help us make business decisions and are in need of some additional help and upgrades to the analytic platforms we use (or should be using). 
+
+The TSI marketing team is looking for a well-rounded analytics consultant to help execute and educate us in a few areas of business intelligence and data analytics.  One objective will be to help transition and further educate us from Google Universal Analytics to GA4. Also provide recommendations and light training on other analytic platforms that might be helpful (ie: Tableau or Data Studios). We would look for this person to understand our general business model, important goals and KPIs.  Then be able to make recommendations and provide specific instructions on which data analytic platforms would best help us achieve our objectives and how. May require some hands on executing of said data analytics.   Some deliverables include:
+
+1) Helping us with transition to GA4. 
+*Currently using Universal Analytics
+*GA4 is set up and tracking, but mostly just doing the basics. We need to expand and define it better and be ready when Unv GA shuts down.
+*Specific deliverables for GA4
+	- Setting up and tracking events and conversions
+	- Pathing and funnel capabilities and reporting
+	- Deeper dive into Exploration and how to create custom reports.  
+	- Creating audiences and retargeting
+	- Possible ecommerce exploration
+
+2) Additional analytic platforms for combining and analyzing data
+*We have multiple digital platforms running different programs and campaigns - paid search, email/automation campaigns, phone tracking, CRM data, etc.  
+*Interested in bringing on additional platforms for analyzing data such as Tableau or Google Data Studio. Looking for input on which one is better and why. Or, is there another one out there that is better for us.
+
+3) Knowledge of integrating with CRMs such as Salesforce or Netsuite desired.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626784704544768,Tableau,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626755084369920,Looker,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1225465936942960640,Dashboard,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626742535012352,Google Tag Manager,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342879461027840,Growth Analytics,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626741842952192,Google Analytics,,,,,,,10 to 15,Payment verified,,1,2000,United States,4,8,,0,Hourly,,$50.00-$100.00,$50.00 ,$100.00 
+"Kobold AI , Pygmalion AI expert needed",https://www.upwork.com/jobs/Kobold-Pygmalion-expert-needed_~015a2a64b916dc4fc0/,Intermediate,"Less than 1 month, Less than 30 hrs/week",Data_science,4 hours ago,"We need help setting up Kobold AI with Pygmalion 6B as a base model , and using Kobold as an API into our application. We would prefer someone who can help deploy this on GCP / AWS or Vast.ai but its not a requirement.
+
+Thanks!",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626716094119936,Artificial Intelligence,,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580640142053376,Neural Network,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626716102508544,Artificial Neural Network,,,,,,,,,,,,,5 to 10,Payment verified,,1,30000,United Arab Emirates,2,4,4.8735192,59,Hourly,,$18.00-$300.00,$18.00 ,$300.00 
+Matlab project with image processing,https://www.upwork.com/jobs/Matlab-project-with-image-processing_~015ccd8d60628484a1/,Expert,,Data_science,4 hours ago,Small matlab project with imaging processing with CNN,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626756875337728,MATLAB,,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626747383627776,Image Processing,,,,,,,,,,,,,,,20 to 50,Payment verified,,1,2000,United Kingdom,4,8,4.91452548,18,Fixed-price,$200 ,,0,
+Talk with me about training chat-modeling,https://www.upwork.com/jobs/Talk-with-about-training-chat-modeling_~01d49ad87be7098148/,Intermediate,"Less than 1 month, Less than 30 hrs/week",Data_science,4 hours ago,"I am interested in training a chatbot to offer suggestions on mushroom identification. I already have a database with species and characteristics. I am considering both text-based guided questions to help filter from a list of 1000 mushrooms, to a few options the user could consider, or possibly something more visual user photos and ""more like A or B"".
+
+I don't know anything about creating these models, or what control I have in maintaining control over the improved models we create. I would like to hire someone to talk with me and possibly work up a very simple proof of concept.
+
+I am open to candidates anywhere in the world but prefer you have availability to be online a few hours between 7am and 6pm US PST time.
+
+You should have earned at least $1000 in previous Upwork projects",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1623716864178130944,ChatGPT,,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342869935763456,Chatbot,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342885165281280,Machine Learning Model,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342887082078208,Model Tuning,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626755474440192,Machine Learning,,,,,,,,,10 to 15,Payment verified,,1,10000,United States,2,4,4.91885868,69,Hourly,,$18.00-$40.00,$18.00 ,$40.00 
+Scrape a list of email addresses from various sites,https://www.upwork.com/jobs/Scrape-list-email-addresses-from-various-sites_~01f6f5c5d73b1e9edd/,Entry level,,Data_science,4 hours ago,"Looking for someone to pull a list of all companies from few Chamber of Commerce websites and then note their website address and email address
+
+https://business.bethelmaine.com/list
+http://business.oxfordhillsmaine.com/list/
+https://www.visitmwv.com/service-directory",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730405085184,Data Scraping,Data Scraping,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730287644672,Data Mining,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730136649728,Data Entry,,,,,,,,,,,,,10 to 15,Payment verified,,1,100,United States,4,8,5,3,Fixed-price,$100 ,,0,
+"Deep learning, AI expert for Yolo.v5, Custom training, Tracking",https://www.upwork.com/jobs/Deep-learning-expert-for-Yolo-Custom-training-Tracking_~01efb366e88b4b9c11/,Expert,"Less than 1 month, Less than 30 hrs/week",Data_science,4 hours ago,"I am looking for an AI consultant.
+I need to talk with an AI expert to discuss Deep Learning, Training for our project. 
+
+What skill requires? 
+- Fluent in English, 
+- Deep knowledge about AI, deep learning, computer vision, tracking, training, 
+- TrackNet, Detectron, Yolo frameworks.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626761858170880,Natural Language Processing,,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730904207360,Deep Learning,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626755474440192,Machine Learning,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580640142053376,Neural Network,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626726596657152,Computer Vision,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626716094119936,Artificial Intelligence,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626752332906496,Keras,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626785698594816,TensorFlow,20 to 50,Payment verified,,1,10000,Ukraine,2,4,4.688237557,41,Hourly,,$35.00-$71.00,$35.00 ,$71.00 
+AWS Data Analyst,https://www.upwork.com/jobs/AWS-span-Data-span-Analyst_~01ce8c438e93b9821f/,Expert,"Less than 1 month, Less than 30 hrs/week",Data_science,4 hours ago,We are looking a data analyst to analyze HubSpot data currently saved to AWS Redshift.,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1225465936942960640,Dashboard,Data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580677601382400,Report,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626712214388736,Amazon Redshift,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626782364123136,SQL,,,,,,,,,15 to 20,Payment verified,,1,10000,United States,2,4,4.9289767,10,Hourly,,$40.00-$75.00,$40.00 ,$75.00 
+Financial Chatbot - ChatGPT and open source GPT model,https://www.upwork.com/jobs/Financial-Chatbot-ChatGPT-and-open-source-GPT-model_~01b6832c353f2005c8/,Expert,"More than 6 months, 30+ hrs/week",Data_science,4 hours ago,"We are looking for an experienced data scientist who's super familiar chatgpt especially its open source alternatives such as GPT-J and GPT-Neo. Also, be familiar with preparing the clear structured training input data thru prompt engineering or other technologies. 
+
+The ideal candidate should be able to present a demo of chatbot that he created before during the interview along with a total cost/timeline range.
+
+Once hired, the idea is to train a simple compiled financial chatbot including creating APIs for a trading app to go thru the entire work flow. Then keep adding more training inputs to enhance the capability of the bot",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1253342869935763456,Chatbot,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274381,C++,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626761858170880,Natural Language Processing,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1623716864308154368,Prompt Engineering,,,,,,,,,5 to 10,Payment verified,,1,40000,United States,6,12,4.34395239,36,Hourly,,$40.00-$50.00,$40.00 ,$50.00 
+GIS Analyst for Renewable Energy Development Firm,https://www.upwork.com/jobs/GIS-Analyst-for-Renewable-Energy-Development-Firm_~01367f8738cf38cc9a/,Intermediate,"3 to 6 months, Less than 30 hrs/week",Data_science,4 hours ago,"Looking for an experienced GIS analyst to assist in renewable energy development exercises. You will be working with a small internal team to develop landowner identification maps, setback maps, and environmental constraints maps and other for our internal development pipeline and existing clients pipeline work. We develop both wind farms and solar farms. We are looking for a reliable contractor who can deliver maps quickly. If it is a good fit there is an opportunity to join the company for a full time position and the ability to grow with the company.",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730384113664,Data Science,Data Science,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1052162208890146823,Data Visualization,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626782364123136,SQL,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626745110315008,HTML,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626728794472448,CSS,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626772146798592,PySpark,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626751951224832,Jupyter,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626741322858496,GitHub,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626715477557248,ArcGIS,Less than 5,Payment unverified,,1,0,United States,4,8,,0,Hourly,,$25.00-$30.00,$25.00 ,$30.00 
+AWS / web developer for cloud data processing with prebuilt data processing pipeline,https://www.upwork.com/jobs/AWS-web-developer-for-cloud-span-data-span-processing-with-prebuilt-span-data-span-processing-pipeline_~011b0dcd2610e02de9/,Intermediate,"1 to 3 months, Less than 30 hrs/week",Data_science,4 hours ago,"Hi all,
+    We need to create an AWS EC2 instance which allows a remote user to upload a dataset (2-10 Mb), allows for  another user with access to the AWS server to interact with a GUI, and a then processed data to be downloadable by the external user while the instance is running. We have fully developed the internal data processing application which includes a python and matlab program which interact with each other. General tasks will be
+
+- Creating a method/ sub program for a remote ""user"" to upload and download data that interacts or is generated by the program
+
+- Create an AWS instance that efficiently uses GPUs for running the programs we've developed and allows us to internally interact with a pyqt GUI that the python program contains.
+
+We're in a bit of a rush so the initial goals need to be met within a month but we're happy to continue work beyond the ask if the project is going well. I would be working directly with you for the majority of the time. Per ususal, the job requires the contractor enter into a non-disclosure agreement and sharing of the code outside of our organization will result in legal consequences.
+
+ Many thanks",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628012691471,Amazon Web Services,data,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626711912398848,Amazon EC2,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626718476484608,AWS Lambda,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626718187077632,AWS Application,,,,,,,,,10 to 15,Payment unverified,,1,0,United States,6,12,,0,Hourly,,$50.00-$120.00,$50.00 ,$120.00 
+AI Model Builder - Mortgages,https://www.upwork.com/jobs/Model-Builder-Mortgages_~0189d363a0c38a5249/,Expert,"3 to 6 months, 30+ hrs/week",Data_science,4 hours ago,"Hi there, 
+
+We're working on automating mortgage underwriting. We have already pre-existing algorithms for rules from 52+ Banks. We'd like to combine conversational AI to bridge the gap between rigid rules and complex client cases.
+
+If you have experience in this area - let's connect!",https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730384113664,Data Science,Data Science,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626716094119936,Artificial Intelligence,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=996364628025274386,Python,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626755474440192,Machine Learning,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626761858170880,Natural Language Processing,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1110580640142053376,Neural Network,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626730904207360,Deep Learning,https://www.upwork.com/nx/jobs/search/?ontology_skill_uid=1031626785698594816,TensorFlow,,,10 to 15,Payment verified,,1,0,Canada,6,12,,0,Hourly,,$50.00-$70.00,$50.00 ,$70.00 
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,
